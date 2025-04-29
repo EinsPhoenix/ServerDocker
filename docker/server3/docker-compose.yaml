@@ -1,5 +1,9 @@
 version: '3'
 
+networks:
+  cluster3:
+    driver: bridge
+
 services:
   # third shard - runs on cluster3 network
   db-shard-3-core-1:
@@ -73,8 +77,3 @@ services:
     networks:
       # This network is defined in docker-compose-main.yaml
       - cluster3
-
-# Define the network as external, as it's created in docker-compose-main.yaml
-networks:
-  cluster3:
-    external: true
