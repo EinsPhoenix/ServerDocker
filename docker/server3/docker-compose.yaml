@@ -1,0 +1,95 @@
+# filepath: c:\Noah_Kirsch\01_stuff\WNR\WNR\server3\docker-compose.yaml
+version: '3'
+
+networks:
+  cluster3:
+    driver: bridge
+
+services:
+  # --- Shard 3 Cores ---
+  db-shard-3-core-1:
+    image: neo4j:4.4-enterprise
+    hostname: "db-shard-3-core-1"
+    container_name: db-shard-3-core-1
+    ports:
+      - "${SERVER3_IP}:${S3_CORE1_HTTP_PORT}:7474"
+      - "${SERVER3_IP}:${S3_CORE1_BOLT_PORT}:7687"
+      - "${SERVER3_IP}:${S3_CORE1_DISCOVERY_PORT}:5000"
+      - "${SERVER3_IP}:${S3_CORE1_TRANSACTION_PORT}:6000"
+      - "${SERVER3_IP}:${S3_CORE1_RAFT_PORT}:7000"
+    environment:
+      NEO4J_AUTH: ${NEO4J_AUTH}
+      NEO4J_ACCEPT_LICENSE_AGREEMENT: "yes"
+      NEO4J_dbms_mode: CORE
+      NEO4J_causal__clustering_initial__discovery__members: "${SERVER3_IP}:${S3_CORE1_DISCOVERY_PORT},${SERVER3_IP}:${S3_CORE2_DISCOVERY_PORT},${SERVER3_IP}:${S3_CORE3_DISCOVERY_PORT}"
+      NEO4J_causal__clustering_expected__core__cluster__size: "3"
+      NEO4J_dbms_connector_bolt_advertised__address: "${SERVER3_IP}:${S3_CORE1_BOLT_PORT}"
+      NEO4J_causal_clustering_discovery_advertised_address: "${SERVER3_IP}:${S3_CORE1_DISCOVERY_PORT}"
+      NEO4J_causal_clustering_transaction_advertised_address: "${SERVER3_IP}:${S3_CORE1_TRANSACTION_PORT}"
+      NEO4J_causal_clustering_raft_advertised_address: "${SERVER3_IP}:${S3_CORE1_RAFT_PORT}"
+      NEO4JLABS_PLUGINS: '["apoc"]'
+      NEO4J_dbms_security_procedures_unrestricted: apoc.*
+      NEO4J_dbms_security_procedures_allowlist: apoc.*
+      NEO4J_dbms_memory_heap_max__size: ${NEO4J_MAX_HEAP_SIZE:-1G}
+    volumes:
+      - "./cypher:/cypher" # Adjust path if needed
+    networks:
+      - cluster3
+
+  db-shard-3-core-2:
+    image: neo4j:4.4-enterprise
+    hostname: "db-shard-3-core-2"
+    container_name: db-shard-3-core-2
+    ports:
+      - "${SERVER3_IP}:${S3_CORE2_HTTP_PORT}:7474"
+      - "${SERVER3_IP}:${S3_CORE2_BOLT_PORT}:7687"
+      - "${SERVER3_IP}:${S3_CORE2_DISCOVERY_PORT}:5000"
+      - "${SERVER3_IP}:${S3_CORE2_TRANSACTION_PORT}:6000"
+      - "${SERVER3_IP}:${S3_CORE2_RAFT_PORT}:7000"
+    environment:
+      NEO4J_AUTH: ${NEO4J_AUTH}
+      NEO4J_ACCEPT_LICENSE_AGREEMENT: "yes"
+      NEO4J_dbms_mode: CORE
+      NEO4J_causal__clustering_initial__discovery__members: "${SERVER3_IP}:${S3_CORE1_DISCOVERY_PORT},${SERVER3_IP}:${S3_CORE2_DISCOVERY_PORT},${SERVER3_IP}:${S3_CORE3_DISCOVERY_PORT}"
+      NEO4J_causal__clustering_expected__core__cluster__size: "3"
+      NEO4J_dbms_connector_bolt_advertised__address: "${SERVER3_IP}:${S3_CORE2_BOLT_PORT}"
+      NEO4J_causal_clustering_discovery_advertised_address: "${SERVER3_IP}:${S3_CORE2_DISCOVERY_PORT}"
+      NEO4J_causal_clustering_transaction_advertised_address: "${SERVER3_IP}:${S3_CORE2_TRANSACTION_PORT}"
+      NEO4J_causal_clustering_raft_advertised_address: "${SERVER3_IP}:${S3_CORE2_RAFT_PORT}"
+      NEO4JLABS_PLUGINS: '["apoc"]'
+      NEO4J_dbms_security_procedures_unrestricted: apoc.*
+      NEO4J_dbms_security_procedures_allowlist: apoc.*
+      NEO4J_dbms_memory_heap_max__size: ${NEO4J_MAX_HEAP_SIZE:-1G}
+    volumes:
+      - "./cypher:/cypher"
+    networks:
+      - cluster3
+
+  db-shard-3-core-3:
+    image: neo4j:4.4-enterprise
+    hostname: "db-shard-3-core-3"
+    container_name: db-shard-3-core-3
+    ports:
+      - "${SERVER3_IP}:${S3_CORE3_HTTP_PORT}:7474"
+      - "${SERVER3_IP}:${S3_CORE3_BOLT_PORT}:7687"
+      - "${SERVER3_IP}:${S3_CORE3_DISCOVERY_PORT}:5000"
+      - "${SERVER3_IP}:${S3_CORE3_TRANSACTION_PORT}:6000"
+      - "${SERVER3_IP}:${S3_CORE3_RAFT_PORT}:7000"
+    environment:
+      NEO4J_AUTH: ${NEO4J_AUTH}
+      NEO4J_ACCEPT_LICENSE_AGREEMENT: "yes"
+      NEO4J_dbms_mode: CORE
+      NEO4J_causal__clustering_initial__discovery__members: "${SERVER3_IP}:${S3_CORE1_DISCOVERY_PORT},${SERVER3_IP}:${S3_CORE2_DISCOVERY_PORT},${SERVER3_IP}:${S3_CORE3_DISCOVERY_PORT}"
+      NEO4J_causal__clustering_expected__core__cluster__size: "3"
+      NEO4J_dbms_connector_bolt_advertised__address: "${SERVER3_IP}:${S3_CORE3_BOLT_PORT}"
+      NEO4J_causal_clustering_discovery_advertised_address: "${SERVER3_IP}:${S3_CORE3_DISCOVERY_PORT}"
+      NEO4J_causal_clustering_transaction_advertised_address: "${SERVER3_IP}:${S3_CORE3_TRANSACTION_PORT}"
+      NEO4J_causal_clustering_raft_advertised_address: "${SERVER3_IP}:${S3_CORE3_RAFT_PORT}"
+      NEO4JLABS_PLUGINS: '["apoc"]'
+      NEO4J_dbms_security_procedures_unrestricted: apoc.*
+      NEO4J_dbms_security_procedures_allowlist: apoc.*
+      NEO4J_dbms_memory_heap_max__size: ${NEO4J_MAX_HEAP_SIZE:-1G}
+    volumes:
+      - "./cypher:/cypher"
+    networks:
+      - cluster3
