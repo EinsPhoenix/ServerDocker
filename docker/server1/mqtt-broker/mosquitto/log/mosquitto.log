@@ -1,0 +1,1931 @@
+1745827527: mosquitto version 2.0.15 starting
+1745827527: Config loaded from /mosquitto/config/mosquitto.conf.
+1745827527: Opening ipv4 listen socket on port 1883.
+1745827527: Opening websockets listen socket on port 9001.
+1745827527: mosquitto version 2.0.15 running
+1745838938: mosquitto version 2.0.15 terminating
+1745840718: mosquitto version 2.0.15 starting
+1745840718: Config loaded from /mosquitto/config/mosquitto.conf.
+1745840718: Opening ipv4 listen socket on port 1883.
+1745840718: Opening websockets listen socket on port 9001.
+1745840718: mosquitto version 2.0.15 running
+1745840826: New connection from 172.24.0.1:48650 on port 1883.
+1745840826: New client connected from 172.24.0.1:48650 as rust-mqtt-server-b067e5fa-1efd-499c-99b3-b8ead752bebc (p2, c1, k60, u'admin').
+1745840934: New connection from 172.24.0.1:39880 on port 1883.
+1745840934: New connection from 172.24.0.1:39894 on port 1883.
+1745840934: New connection from 172.24.0.1:39898 on port 1883.
+1745840934: New connection from 172.24.0.1:39900 on port 1883.
+1745840934: New client connected from 172.24.0.1:39880 as test-client-3 (p2, c1, k60, u'admin').
+1745840934: New client connected from 172.24.0.1:39894 as test-client-2 (p2, c1, k60, u'admin').
+1745840934: New client connected from 172.24.0.1:39898 as test-client-1 (p2, c1, k60, u'admin').
+1745840934: New client connected from 172.24.0.1:39900 as test-client-5 (p2, c1, k60, u'admin').
+1745840934: New connection from 172.24.0.1:39902 on port 1883.
+1745840934: New client connected from 172.24.0.1:39902 as test-client-4 (p2, c1, k60, u'admin').
+1745840935: Client test-client-5 disconnected.
+1745840935: Client test-client-4 disconnected.
+1745840935: Client test-client-2 disconnected.
+1745840935: Client test-client-3 disconnected.
+1745840935: Client test-client-1 disconnected.
+1745841347: Client rust-mqtt-server-b067e5fa-1efd-499c-99b3-b8ead752bebc closed its connection.
+1745841363: New connection from 172.24.0.1:48862 on port 1883.
+1745841363: New client connected from 172.24.0.1:48862 as rust-mqtt-server-dd0489e4-6725-423a-8e4d-44cdfa27703e (p2, c1, k60, u'admin').
+1745841365: New connection from 172.24.0.1:48864 on port 1883.
+1745841365: New connection from 172.24.0.1:48878 on port 1883.
+1745841365: New connection from 172.24.0.1:48884 on port 1883.
+1745841365: New connection from 172.24.0.1:48886 on port 1883.
+1745841365: New connection from 172.24.0.1:48890 on port 1883.
+1745841365: New client connected from 172.24.0.1:48864 as test-client-5 (p2, c1, k60, u'admin').
+1745841365: New client connected from 172.24.0.1:48878 as test-client-2 (p2, c1, k60, u'admin').
+1745841365: New client connected from 172.24.0.1:48884 as test-client-1 (p2, c1, k60, u'admin').
+1745841365: New client connected from 172.24.0.1:48886 as test-client-4 (p2, c1, k60, u'admin').
+1745841365: New client connected from 172.24.0.1:48890 as test-client-3 (p2, c1, k60, u'admin').
+1745841366: Client test-client-3 disconnected.
+1745841366: Client test-client-2 disconnected.
+1745841366: Client test-client-4 disconnected.
+1745841366: Client test-client-1 disconnected.
+1745841366: Client test-client-5 disconnected.
+1745841396: Client rust-mqtt-server-dd0489e4-6725-423a-8e4d-44cdfa27703e closed its connection.
+1745841401: New connection from 172.24.0.1:37466 on port 1883.
+1745841401: New client connected from 172.24.0.1:37466 as rust-mqtt-server-1985c800-23eb-4a93-9a0d-b389801fb69a (p2, c1, k60, u'admin').
+1745841405: New connection from 172.24.0.1:37476 on port 1883.
+1745841405: New connection from 172.24.0.1:37486 on port 1883.
+1745841405: New client connected from 172.24.0.1:37476 as test-client-5 (p2, c1, k60, u'admin').
+1745841405: New client connected from 172.24.0.1:37486 as test-client-4 (p2, c1, k60, u'admin').
+1745841405: New connection from 172.24.0.1:37496 on port 1883.
+1745841405: New connection from 172.24.0.1:37508 on port 1883.
+1745841405: New connection from 172.24.0.1:37522 on port 1883.
+1745841405: New client connected from 172.24.0.1:37496 as test-client-2 (p2, c1, k60, u'admin').
+1745841405: New client connected from 172.24.0.1:37508 as test-client-3 (p2, c1, k60, u'admin').
+1745841405: New client connected from 172.24.0.1:37522 as test-client-1 (p2, c1, k60, u'admin').
+1745841406: Client test-client-2 disconnected.
+1745841406: Client test-client-1 disconnected.
+1745841406: Client test-client-3 disconnected.
+1745841406: Client test-client-5 disconnected.
+1745841406: Client test-client-4 disconnected.
+1745842126: Client rust-mqtt-server-1985c800-23eb-4a93-9a0d-b389801fb69a closed its connection.
+1745842681: New connection from 172.24.0.1:37088 on port 1883.
+1745842681: New client connected from 172.24.0.1:37088 as rust-mqtt-server-9488e1fc-c31c-4c2e-920a-08f2366423b2 (p2, c1, k60, u'admin').
+1745842686: New connection from 172.24.0.1:37092 on port 1883.
+1745842686: New connection from 172.24.0.1:37104 on port 1883.
+1745842686: New client connected from 172.24.0.1:37092 as test-client-2 (p2, c1, k60, u'admin').
+1745842686: New client connected from 172.24.0.1:37104 as test-client-4 (p2, c1, k60, u'admin').
+1745842686: New connection from 172.24.0.1:37112 on port 1883.
+1745842686: New client connected from 172.24.0.1:37112 as test-client-1 (p2, c1, k60, u'admin').
+1745842686: New connection from 172.24.0.1:37116 on port 1883.
+1745842686: New connection from 172.24.0.1:37118 on port 1883.
+1745842686: New client connected from 172.24.0.1:37116 as test-client-5 (p2, c1, k60, u'admin').
+1745842686: New client connected from 172.24.0.1:37118 as test-client-3 (p2, c1, k60, u'admin').
+1745842687: Client test-client-3 disconnected.
+1745842687: Client test-client-2 disconnected.
+1745842687: Client test-client-4 disconnected.
+1745842687: Client test-client-5 disconnected.
+1745842687: Client test-client-1 disconnected.
+1745842693: New connection from 172.24.0.1:44170 on port 1883.
+1745842693: New client connected from 172.24.0.1:44170 as test-client-3 (p2, c1, k60, u'admin').
+1745842693: New connection from 172.24.0.1:44172 on port 1883.
+1745842693: New connection from 172.24.0.1:44178 on port 1883.
+1745842693: New client connected from 172.24.0.1:44172 as test-client-1 (p2, c1, k60, u'admin').
+1745842693: New client connected from 172.24.0.1:44178 as test-client-2 (p2, c1, k60, u'admin').
+1745842693: New connection from 172.24.0.1:44194 on port 1883.
+1745842693: New connection from 172.24.0.1:44202 on port 1883.
+1745842693: New client connected from 172.24.0.1:44194 as test-client-5 (p2, c1, k60, u'admin').
+1745842693: New client connected from 172.24.0.1:44202 as test-client-4 (p2, c1, k60, u'admin').
+1745842694: Client test-client-4 disconnected.
+1745842694: Client test-client-2 disconnected.
+1745842694: Client test-client-5 disconnected.
+1745842694: Client test-client-3 disconnected.
+1745842694: Client test-client-1 disconnected.
+1745842724: New connection from 172.24.0.1:60792 on port 1883.
+1745842724: New client connected from 172.24.0.1:60792 as test-client-1 (p2, c1, k60, u'admin').
+1745842724: New connection from 172.24.0.1:60798 on port 1883.
+1745842724: New connection from 172.24.0.1:60802 on port 1883.
+1745842724: New connection from 172.24.0.1:60814 on port 1883.
+1745842724: New connection from 172.24.0.1:60816 on port 1883.
+1745842724: New client connected from 172.24.0.1:60798 as test-client-3 (p2, c1, k60, u'admin').
+1745842724: New client connected from 172.24.0.1:60802 as test-client-2 (p2, c1, k60, u'admin').
+1745842724: New client connected from 172.24.0.1:60814 as test-client-4 (p2, c1, k60, u'admin').
+1745842724: New client connected from 172.24.0.1:60816 as test-client-5 (p2, c1, k60, u'admin').
+1745842725: Client test-client-2 disconnected.
+1745842725: Client test-client-4 disconnected.
+1745842725: Client test-client-3 disconnected.
+1745842725: Client test-client-1 disconnected.
+1745842725: Client test-client-5 disconnected.
+1745843108: New connection from 172.24.0.1:52782 on port 1883.
+1745843108: New connection from 172.24.0.1:52792 on port 1883.
+1745843108: New connection from 172.24.0.1:52796 on port 1883.
+1745843108: New connection from 172.24.0.1:52798 on port 1883.
+1745843108: New connection from 172.24.0.1:52812 on port 1883.
+1745843108: New client connected from 172.24.0.1:52782 as test-client-3 (p2, c1, k60, u'admin').
+1745843108: New client connected from 172.24.0.1:52792 as test-client-1 (p2, c1, k60, u'admin').
+1745843108: New client connected from 172.24.0.1:52796 as test-client-4 (p2, c1, k60, u'admin').
+1745843108: New client connected from 172.24.0.1:52798 as test-client-2 (p2, c1, k60, u'admin').
+1745843108: New client connected from 172.24.0.1:52812 as test-client-5 (p2, c1, k60, u'admin').
+1745843109: Client test-client-2 disconnected.
+1745843109: Client test-client-3 disconnected.
+1745843109: Client test-client-5 disconnected.
+1745843109: Client test-client-4 disconnected.
+1745843109: Client test-client-1 disconnected.
+1745843259: Client rust-mqtt-server-9488e1fc-c31c-4c2e-920a-08f2366423b2 closed its connection.
+1745843345: New connection from 172.24.0.1:58860 on port 1883.
+1745843345: New client connected from 172.24.0.1:58860 as rust-mqtt-server-8ba72209-dc34-4ff9-8792-ed1f8d3b6d4c (p2, c1, k60, u'admin').
+1745843346: New connection from 172.24.0.1:60748 on port 1883.
+1745843346: New client connected from 172.24.0.1:60748 as test-client-5 (p2, c1, k60, u'admin').
+1745843346: New connection from 172.24.0.1:60762 on port 1883.
+1745843346: New connection from 172.24.0.1:60768 on port 1883.
+1745843346: New connection from 172.24.0.1:60778 on port 1883.
+1745843346: New connection from 172.24.0.1:60790 on port 1883.
+1745843346: New client connected from 172.24.0.1:60762 as test-client-3 (p2, c1, k60, u'admin').
+1745843346: New client connected from 172.24.0.1:60768 as test-client-2 (p2, c1, k60, u'admin').
+1745843346: New client connected from 172.24.0.1:60778 as test-client-4 (p2, c1, k60, u'admin').
+1745843346: New client connected from 172.24.0.1:60790 as test-client-1 (p2, c1, k60, u'admin').
+1745843347: Client test-client-3 disconnected.
+1745843347: Client test-client-4 disconnected.
+1745843347: Client test-client-1 disconnected.
+1745843347: Client test-client-5 disconnected.
+1745843347: Client test-client-2 disconnected.
+1745843778: Client rust-mqtt-server-8ba72209-dc34-4ff9-8792-ed1f8d3b6d4c closed its connection.
+1745843902: New connection from 172.24.0.1:38142 on port 1883.
+1745843902: New connection from 172.24.0.1:38148 on port 1883.
+1745843902: New connection from 172.24.0.1:38150 on port 1883.
+1745843902: New connection from 172.24.0.1:38166 on port 1883.
+1745843902: New connection from 172.24.0.1:38170 on port 1883.
+1745843902: New client connected from 172.24.0.1:38142 as test-client-5 (p2, c1, k60, u'admin').
+1745843902: New client connected from 172.24.0.1:38148 as test-client-3 (p2, c1, k60, u'admin').
+1745843902: New client connected from 172.24.0.1:38150 as test-client-2 (p2, c1, k60, u'admin').
+1745843902: New client connected from 172.24.0.1:38166 as test-client-4 (p2, c1, k60, u'admin').
+1745843902: New client connected from 172.24.0.1:38170 as test-client-1 (p2, c1, k60, u'admin').
+1745843904: New connection from 172.24.0.1:38172 on port 1883.
+1745843904: New client connected from 172.24.0.1:38172 as rust-mqtt-server-5850216a-8795-4bcc-b563-70666020f0bb (p2, c1, k60, u'admin').
+1745843917: Client test-client-4 disconnected.
+1745843917: Client test-client-5 disconnected.
+1745843917: Client test-client-2 disconnected.
+1745843917: Client test-client-3 disconnected.
+1745843917: Client test-client-1 disconnected.
+1745843938: New connection from 172.24.0.1:33092 on port 1883.
+1745843938: New client connected from 172.24.0.1:33092 as test-client-4 (p2, c1, k60, u'admin').
+1745843938: New connection from 172.24.0.1:33108 on port 1883.
+1745843938: New client connected from 172.24.0.1:33108 as test-client-5 (p2, c1, k60, u'admin').
+1745843938: New connection from 172.24.0.1:33116 on port 1883.
+1745843938: New connection from 172.24.0.1:33120 on port 1883.
+1745843938: New connection from 172.24.0.1:33126 on port 1883.
+1745843938: New client connected from 172.24.0.1:33116 as test-client-2 (p2, c1, k60, u'admin').
+1745843938: New client connected from 172.24.0.1:33120 as test-client-3 (p2, c1, k60, u'admin').
+1745843938: New client connected from 172.24.0.1:33126 as test-client-1 (p2, c1, k60, u'admin').
+1745843939: Client test-client-3 disconnected.
+1745843939: Client test-client-5 disconnected.
+1745843939: Client test-client-1 disconnected.
+1745843939: Client test-client-4 disconnected.
+1745843939: Client test-client-2 disconnected.
+1745843949: New connection from 172.24.0.1:45266 on port 1883.
+1745843949: New connection from 172.24.0.1:45282 on port 1883.
+1745843949: New connection from 172.24.0.1:45284 on port 1883.
+1745843949: New connection from 172.24.0.1:45290 on port 1883.
+1745843949: New connection from 172.24.0.1:45306 on port 1883.
+1745843949: New client connected from 172.24.0.1:45266 as test-client-3 (p2, c1, k60, u'admin').
+1745843949: New client connected from 172.24.0.1:45282 as test-client-1 (p2, c1, k60, u'admin').
+1745843949: New client connected from 172.24.0.1:45284 as test-client-5 (p2, c1, k60, u'admin').
+1745843949: New client connected from 172.24.0.1:45306 as test-client-2 (p2, c1, k60, u'admin').
+1745843949: New client connected from 172.24.0.1:45290 as test-client-4 (p2, c1, k60, u'admin').
+1745843950: Client test-client-3 disconnected.
+1745843950: Client test-client-5 disconnected.
+1745843950: Client test-client-2 disconnected.
+1745843950: Client test-client-1 disconnected.
+1745843950: Client test-client-4 disconnected.
+1745843982: New connection from 172.24.0.1:39324 on port 1883.
+1745843982: New connection from 172.24.0.1:39326 on port 1883.
+1745843982: New connection from 172.24.0.1:39342 on port 1883.
+1745843982: New client connected from 172.24.0.1:39342 as test-client-15 (p2, c1, k60, u'admin').
+1745843982: New connection from 172.24.0.1:39352 on port 1883.
+1745843982: New connection from 172.24.0.1:39362 on port 1883.
+1745843982: New client connected from 172.24.0.1:39326 as test-client-16 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39352 as test-client-30 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39362 as test-client-24 (p2, c1, k60, u'admin').
+1745843982: New connection from 172.24.0.1:39378 on port 1883.
+1745843982: New connection from 172.24.0.1:39386 on port 1883.
+1745843982: New connection from 172.24.0.1:39396 on port 1883.
+1745843982: New client connected from 172.24.0.1:39378 as test-client-28 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39386 as test-client-20 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39324 as test-client-17 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39396 as test-client-35 (p2, c1, k60, u'admin').
+1745843982: New connection from 172.24.0.1:39406 on port 1883.
+1745843982: New connection from 172.24.0.1:39422 on port 1883.
+1745843982: New client connected from 172.24.0.1:39406 as test-client-4 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39422 as test-client-11 (p2, c1, k60, u'admin').
+1745843982: New connection from 172.24.0.1:39430 on port 1883.
+1745843982: New connection from 172.24.0.1:39438 on port 1883.
+1745843982: New connection from 172.24.0.1:39448 on port 1883.
+1745843982: New connection from 172.24.0.1:39454 on port 1883.
+1745843982: New connection from 172.24.0.1:39460 on port 1883.
+1745843982: New connection from 172.24.0.1:39476 on port 1883.
+1745843982: New connection from 172.24.0.1:39480 on port 1883.
+1745843982: New client connected from 172.24.0.1:39430 as test-client-18 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39438 as test-client-22 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39448 as test-client-6 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39454 as test-client-37 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39460 as test-client-21 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39476 as test-client-3 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39480 as test-client-19 (p2, c1, k60, u'admin').
+1745843982: New connection from 172.24.0.1:39492 on port 1883.
+1745843982: New client connected from 172.24.0.1:39492 as test-client-12 (p2, c1, k60, u'admin').
+1745843982: New connection from 172.24.0.1:39494 on port 1883.
+1745843982: New connection from 172.24.0.1:39508 on port 1883.
+1745843982: New connection from 172.24.0.1:39502 on port 1883.
+1745843982: New connection from 172.24.0.1:39518 on port 1883.
+1745843982: New connection from 172.24.0.1:39524 on port 1883.
+1745843982: New connection from 172.24.0.1:39554 on port 1883.
+1745843982: New connection from 172.24.0.1:39540 on port 1883.
+1745843982: New connection from 172.24.0.1:39562 on port 1883.
+1745843982: New connection from 172.24.0.1:39560 on port 1883.
+1745843982: New connection from 172.24.0.1:39576 on port 1883.
+1745843982: New connection from 172.24.0.1:39584 on port 1883.
+1745843982: New connection from 172.24.0.1:39512 on port 1883.
+1745843982: New connection from 172.24.0.1:39588 on port 1883.
+1745843982: New connection from 172.24.0.1:39590 on port 1883.
+1745843982: New connection from 172.24.0.1:39592 on port 1883.
+1745843982: New connection from 172.24.0.1:39596 on port 1883.
+1745843982: New connection from 172.24.0.1:39602 on port 1883.
+1745843982: New connection from 172.24.0.1:39606 on port 1883.
+1745843982: New connection from 172.24.0.1:39618 on port 1883.
+1745843982: New connection from 172.24.0.1:39628 on port 1883.
+1745843982: New connection from 172.24.0.1:39634 on port 1883.
+1745843982: New connection from 172.24.0.1:39646 on port 1883.
+1745843982: New connection from 172.24.0.1:39650 on port 1883.
+1745843982: New connection from 172.24.0.1:39664 on port 1883.
+1745843982: New connection from 172.24.0.1:39672 on port 1883.
+1745843982: New connection from 172.24.0.1:39682 on port 1883.
+1745843982: New connection from 172.24.0.1:39696 on port 1883.
+1745843982: New connection from 172.24.0.1:39710 on port 1883.
+1745843982: New connection from 172.24.0.1:39720 on port 1883.
+1745843982: New connection from 172.24.0.1:39736 on port 1883.
+1745843982: New connection from 172.24.0.1:39704 on port 1883.
+1745843982: New connection from 172.24.0.1:39740 on port 1883.
+1745843982: New client connected from 172.24.0.1:39494 as test-client-13 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39508 as test-client-5 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39502 as test-client-14 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39518 as test-client-23 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39524 as test-client-1 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39554 as test-client-7 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39540 as test-client-10 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39562 as test-client-9 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39560 as test-client-33 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39576 as test-client-31 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39584 as test-client-29 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39512 as test-client-34 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39588 as test-client-32 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39590 as test-client-8 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39592 as test-client-2 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39596 as test-client-36 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39602 as test-client-25 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39606 as test-client-26 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39618 as test-client-38 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39628 as test-client-39 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39634 as test-client-27 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39646 as test-client-41 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39650 as test-client-42 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39664 as test-client-40 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39672 as test-client-44 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39682 as test-client-47 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39696 as test-client-48 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39710 as test-client-49 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39720 as test-client-50 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39736 as test-client-46 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39704 as test-client-43 (p2, c1, k60, u'admin').
+1745843982: New client connected from 172.24.0.1:39740 as test-client-45 (p2, c1, k60, u'admin').
+1745843983: Client test-client-30 disconnected.
+1745843983: Client test-client-19 disconnected.
+1745843983: Client test-client-28 disconnected.
+1745843983: Client test-client-3 disconnected.
+1745843983: Client test-client-17 disconnected.
+1745843983: Client test-client-22 disconnected.
+1745843983: Client test-client-4 disconnected.
+1745843983: Client test-client-24 disconnected.
+1745843983: Client test-client-37 disconnected.
+1745843983: Client test-client-35 disconnected.
+1745843983: Client test-client-21 disconnected.
+1745843983: Client test-client-20 disconnected.
+1745843983: Client test-client-23 disconnected.
+1745843983: Client test-client-33 disconnected.
+1745843983: Client test-client-11 disconnected.
+1745843983: Client test-client-34 disconnected.
+1745843983: Client test-client-18 disconnected.
+1745843983: Client test-client-25 disconnected.
+1745843983: Client test-client-29 disconnected.
+1745843983: Client test-client-16 disconnected.
+1745843983: Client test-client-31 disconnected.
+1745843983: Client test-client-12 disconnected.
+1745843983: Client test-client-36 disconnected.
+1745843983: Client test-client-32 disconnected.
+1745843983: Client test-client-6 disconnected.
+1745843983: Client test-client-15 disconnected.
+1745843983: Client test-client-38 disconnected.
+1745843983: Client test-client-27 disconnected.
+1745843983: Client test-client-48 disconnected.
+1745843983: Client test-client-39 disconnected.
+1745843983: Client test-client-41 disconnected.
+1745843983: Client test-client-26 disconnected.
+1745843983: Client test-client-44 disconnected.
+1745843983: Client test-client-42 disconnected.
+1745843983: Client test-client-47 disconnected.
+1745843983: Client test-client-49 disconnected.
+1745843983: Client test-client-40 disconnected.
+1745843983: Client test-client-43 disconnected.
+1745843983: Client test-client-46 disconnected.
+1745843983: Client test-client-45 disconnected.
+1745843983: Client test-client-50 disconnected.
+1745843983: Client test-client-8 disconnected.
+1745843983: Client test-client-14 disconnected.
+1745843983: Client test-client-9 disconnected.
+1745843983: Client test-client-13 disconnected.
+1745843983: Client test-client-10 disconnected.
+1745843983: Client test-client-5 disconnected.
+1745843983: Client test-client-2 disconnected.
+1745843983: Client test-client-7 disconnected.
+1745843983: Client test-client-1 disconnected.
+1745844265: Client rust-mqtt-server-5850216a-8795-4bcc-b563-70666020f0bb closed its connection.
+1745844277: New connection from 172.24.0.1:59272 on port 1883.
+1745844277: New client connected from 172.24.0.1:59272 as rust-mqtt-server-e0891ff0-25f3-4ef1-8a67-c6014ab006ca (p2, c1, k60, u'admin').
+1745845175: Client rust-mqtt-server-e0891ff0-25f3-4ef1-8a67-c6014ab006ca closed its connection.
+1745845187: New connection from 172.24.0.1:60308 on port 1883.
+1745845187: New client connected from 172.24.0.1:60308 as rust-mqtt-server-bbd3e592-1854-427c-8ca3-3d5a0ae650c6 (p2, c1, k60, u'admin').
+1745845598: Client rust-mqtt-server-bbd3e592-1854-427c-8ca3-3d5a0ae650c6 closed its connection.
+1745845608: New connection from 172.24.0.1:43516 on port 1883.
+1745845608: New client connected from 172.24.0.1:43516 as rust-mqtt-server-ac4daba8-c3df-4b6b-a1fe-0204fababa4a (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38180 on port 1883.
+1745845642: New connection from 172.24.0.1:38190 on port 1883.
+1745845642: New connection from 172.24.0.1:38192 on port 1883.
+1745845642: New connection from 172.24.0.1:38204 on port 1883.
+1745845642: New client connected from 172.24.0.1:38180 as test-client-8 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38190 as test-client-10 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38192 as test-client-17 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38204 as test-client-1 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38206 on port 1883.
+1745845642: New connection from 172.24.0.1:38220 on port 1883.
+1745845642: New connection from 172.24.0.1:38234 on port 1883.
+1745845642: New connection from 172.24.0.1:38248 on port 1883.
+1745845642: New connection from 172.24.0.1:38256 on port 1883.
+1745845642: New connection from 172.24.0.1:38258 on port 1883.
+1745845642: New connection from 172.24.0.1:38260 on port 1883.
+1745845642: New connection from 172.24.0.1:38264 on port 1883.
+1745845642: New connection from 172.24.0.1:38270 on port 1883.
+1745845642: New connection from 172.24.0.1:38282 on port 1883.
+1745845642: New connection from 172.24.0.1:38286 on port 1883.
+1745845642: New client connected from 172.24.0.1:38206 as test-client-7 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38220 as test-client-13 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38234 as test-client-4 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38248 as test-client-22 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38256 as test-client-19 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38258 as test-client-24 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38260 as test-client-18 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38264 as test-client-26 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38270 as test-client-15 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38282 as test-client-9 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38286 as test-client-3 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38298 on port 1883.
+1745845642: New connection from 172.24.0.1:38288 on port 1883.
+1745845642: New connection from 172.24.0.1:38310 on port 1883.
+1745845642: New connection from 172.24.0.1:38326 on port 1883.
+1745845642: New connection from 172.24.0.1:38334 on port 1883.
+1745845642: New connection from 172.24.0.1:38346 on port 1883.
+1745845642: New connection from 172.24.0.1:38350 on port 1883.
+1745845642: New connection from 172.24.0.1:38366 on port 1883.
+1745845642: New connection from 172.24.0.1:38374 on port 1883.
+1745845642: New client connected from 172.24.0.1:38298 as test-client-16 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38288 as test-client-5 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38310 as test-client-14 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38326 as test-client-11 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38334 as test-client-25 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38346 as test-client-21 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38350 as test-client-6 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38366 as test-client-28 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38374 as test-client-23 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38376 on port 1883.
+1745845642: New connection from 172.24.0.1:38380 on port 1883.
+1745845642: New connection from 172.24.0.1:38384 on port 1883.
+1745845642: New connection from 172.24.0.1:38398 on port 1883.
+1745845642: New connection from 172.24.0.1:38404 on port 1883.
+1745845642: New connection from 172.24.0.1:38418 on port 1883.
+1745845642: New connection from 172.24.0.1:38432 on port 1883.
+1745845642: New connection from 172.24.0.1:38446 on port 1883.
+1745845642: New connection from 172.24.0.1:38456 on port 1883.
+1745845642: New connection from 172.24.0.1:38464 on port 1883.
+1745845642: New client connected from 172.24.0.1:38376 as test-client-12 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38380 as test-client-2 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38384 as test-client-20 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38398 as test-client-27 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38404 as test-client-30 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38418 as test-client-29 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38446 as test-client-31 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38464 as test-client-34 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38470 on port 1883.
+1745845642: New client connected from 172.24.0.1:38432 as test-client-33 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38456 as test-client-32 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38470 as test-client-35 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38474 on port 1883.
+1745845642: New client connected from 172.24.0.1:38474 as test-client-36 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38478 on port 1883.
+1745845642: New client connected from 172.24.0.1:38478 as test-client-37 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38484 on port 1883.
+1745845642: New client connected from 172.24.0.1:38484 as test-client-39 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38486 on port 1883.
+1745845642: New client connected from 172.24.0.1:38486 as test-client-42 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38498 on port 1883.
+1745845642: New connection from 172.24.0.1:38512 on port 1883.
+1745845642: New client connected from 172.24.0.1:38498 as test-client-41 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38512 as test-client-38 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38514 on port 1883.
+1745845642: New connection from 172.24.0.1:38528 on port 1883.
+1745845642: New client connected from 172.24.0.1:38514 as test-client-40 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38528 as test-client-43 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38542 on port 1883.
+1745845642: New client connected from 172.24.0.1:38542 as test-client-45 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38554 on port 1883.
+1745845642: New connection from 172.24.0.1:38558 on port 1883.
+1745845642: New client connected from 172.24.0.1:38554 as test-client-44 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38566 on port 1883.
+1745845642: New client connected from 172.24.0.1:38558 as test-client-47 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38566 as test-client-48 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38570 on port 1883.
+1745845642: New connection from 172.24.0.1:38580 on port 1883.
+1745845642: New client connected from 172.24.0.1:38570 as test-client-49 (p2, c1, k60, u'admin').
+1745845642: New client connected from 172.24.0.1:38580 as test-client-46 (p2, c1, k60, u'admin').
+1745845642: New connection from 172.24.0.1:38582 on port 1883.
+1745845642: New client connected from 172.24.0.1:38582 as test-client-50 (p2, c1, k60, u'admin').
+1745845644: Client test-client-18 disconnected.
+1745845644: Client test-client-7 disconnected.
+1745845644: Client test-client-6 disconnected.
+1745845644: Client test-client-3 disconnected.
+1745845644: Client test-client-11 disconnected.
+1745845644: Client test-client-14 disconnected.
+1745845644: Client test-client-36 disconnected.
+1745845644: Client test-client-9 disconnected.
+1745845644: Client test-client-8 disconnected.
+1745845644: Client test-client-23 disconnected.
+1745845644: Client test-client-24 disconnected.
+1745845644: Client test-client-19 disconnected.
+1745845644: Client test-client-25 disconnected.
+1745845644: Client test-client-10 disconnected.
+1745845644: Client test-client-4 disconnected.
+1745845644: Client test-client-13 disconnected.
+1745845644: Client test-client-28 disconnected.
+1745845644: Client test-client-35 disconnected.
+1745845644: Client test-client-33 disconnected.
+1745845644: Client test-client-17 disconnected.
+1745845644: Client test-client-39 disconnected.
+1745845644: Client test-client-15 disconnected.
+1745845644: Client test-client-29 disconnected.
+1745845644: Client test-client-48 disconnected.
+1745845644: Client test-client-50 disconnected.
+1745845644: Client test-client-5 disconnected.
+1745845644: Client test-client-12 disconnected.
+1745845644: Client test-client-43 disconnected.
+1745845644: Client test-client-2 disconnected.
+1745845644: Client test-client-34 disconnected.
+1745845644: Client test-client-20 disconnected.
+1745845644: Client test-client-32 disconnected.
+1745845644: Client test-client-46 disconnected.
+1745845644: Client test-client-16 disconnected.
+1745845644: Client test-client-26 disconnected.
+1745845644: Client test-client-27 disconnected.
+1745845644: Client test-client-38 disconnected.
+1745845644: Client test-client-22 disconnected.
+1745845644: Client test-client-21 disconnected.
+1745845644: Client test-client-37 disconnected.
+1745845644: Client test-client-47 disconnected.
+1745845644: Client test-client-45 disconnected.
+1745845644: Client test-client-42 disconnected.
+1745845644: Client test-client-31 disconnected.
+1745845644: Client test-client-41 disconnected.
+1745845644: Client test-client-44 disconnected.
+1745845644: Client test-client-49 disconnected.
+1745845644: Client test-client-40 disconnected.
+1745845644: Client test-client-30 disconnected.
+1745845644: Client test-client-1 disconnected.
+1745845647: New connection from 172.24.0.1:58646 on port 1883.
+1745845647: New connection from 172.24.0.1:58656 on port 1883.
+1745845647: New connection from 172.24.0.1:58666 on port 1883.
+1745845647: New connection from 172.24.0.1:58668 on port 1883.
+1745845647: New client connected from 172.24.0.1:58646 as test-client-28 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58656 as test-client-7 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58666 as test-client-14 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58668 as test-client-19 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:58670 on port 1883.
+1745845647: New connection from 172.24.0.1:58674 on port 1883.
+1745845647: New connection from 172.24.0.1:58690 on port 1883.
+1745845647: New connection from 172.24.0.1:58698 on port 1883.
+1745845647: New connection from 172.24.0.1:58700 on port 1883.
+1745845647: New connection from 172.24.0.1:58702 on port 1883.
+1745845647: New connection from 172.24.0.1:58716 on port 1883.
+1745845647: New connection from 172.24.0.1:58724 on port 1883.
+1745845647: New connection from 172.24.0.1:58740 on port 1883.
+1745845647: New client connected from 172.24.0.1:58670 as test-client-20 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58674 as test-client-13 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58690 as test-client-9 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58698 as test-client-4 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58700 as test-client-23 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58702 as test-client-24 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58716 as test-client-21 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58724 as test-client-18 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:58748 on port 1883.
+1745845647: New connection from 172.24.0.1:58754 on port 1883.
+1745845647: New connection from 172.24.0.1:58756 on port 1883.
+1745845647: New connection from 172.24.0.1:58758 on port 1883.
+1745845647: New connection from 172.24.0.1:58770 on port 1883.
+1745845647: New connection from 172.24.0.1:58776 on port 1883.
+1745845647: New connection from 172.24.0.1:58782 on port 1883.
+1745845647: New connection from 172.24.0.1:58788 on port 1883.
+1745845647: New connection from 172.24.0.1:58790 on port 1883.
+1745845647: New connection from 172.24.0.1:58806 on port 1883.
+1745845647: New connection from 172.24.0.1:58812 on port 1883.
+1745845647: New connection from 172.24.0.1:58824 on port 1883.
+1745845647: New connection from 172.24.0.1:58836 on port 1883.
+1745845647: New connection from 172.24.0.1:58838 on port 1883.
+1745845647: New connection from 172.24.0.1:58848 on port 1883.
+1745845647: New connection from 172.24.0.1:58852 on port 1883.
+1745845647: New connection from 172.24.0.1:58860 on port 1883.
+1745845647: New connection from 172.24.0.1:58876 on port 1883.
+1745845647: New client connected from 172.24.0.1:58740 as test-client-10 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:58882 on port 1883.
+1745845647: New client connected from 172.24.0.1:58748 as test-client-12 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58754 as test-client-3 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58756 as test-client-29 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58758 as test-client-2 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58770 as test-client-1 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58776 as test-client-16 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58782 as test-client-27 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58788 as test-client-26 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58790 as test-client-8 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58806 as test-client-30 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58812 as test-client-17 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58824 as test-client-11 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58836 as test-client-15 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58838 as test-client-25 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58848 as test-client-5 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58852 as test-client-6 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58860 as test-client-22 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:58892 on port 1883.
+1745845647: New connection from 172.24.0.1:58904 on port 1883.
+1745845647: New client connected from 172.24.0.1:58876 as test-client-32 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58882 as test-client-31 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58892 as test-client-34 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:58918 on port 1883.
+1745845647: New connection from 172.24.0.1:58934 on port 1883.
+1745845647: New client connected from 172.24.0.1:58904 as test-client-33 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:58942 on port 1883.
+1745845647: New client connected from 172.24.0.1:58918 as test-client-38 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58934 as test-client-35 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:58944 on port 1883.
+1745845647: New connection from 172.24.0.1:58958 on port 1883.
+1745845647: New client connected from 172.24.0.1:58942 as test-client-36 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58958 as test-client-37 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58944 as test-client-39 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:58962 on port 1883.
+1745845647: New client connected from 172.24.0.1:58962 as test-client-40 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:58978 on port 1883.
+1745845647: New connection from 172.24.0.1:58982 on port 1883.
+1745845647: New client connected from 172.24.0.1:58978 as test-client-42 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58982 as test-client-41 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:58988 on port 1883.
+1745845647: New connection from 172.24.0.1:59000 on port 1883.
+1745845647: New client connected from 172.24.0.1:59000 as test-client-44 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:59004 on port 1883.
+1745845647: New client connected from 172.24.0.1:59004 as test-client-45 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:59016 on port 1883.
+1745845647: New client connected from 172.24.0.1:59016 as test-client-48 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:59018 on port 1883.
+1745845647: New client connected from 172.24.0.1:59018 as test-client-46 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:59032 on port 1883.
+1745845647: New client connected from 172.24.0.1:59032 as test-client-47 (p2, c1, k60, u'admin').
+1745845647: New connection from 172.24.0.1:59034 on port 1883.
+1745845647: New connection from 172.24.0.1:59040 on port 1883.
+1745845647: New client connected from 172.24.0.1:59034 as test-client-49 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:59040 as test-client-50 (p2, c1, k60, u'admin').
+1745845647: New client connected from 172.24.0.1:58988 as test-client-43 (p2, c1, k60, u'admin').
+1745845648: Client test-client-14 disconnected.
+1745845648: Client test-client-4 disconnected.
+1745845648: Client test-client-10 disconnected.
+1745845648: Client test-client-17 disconnected.
+1745845648: Client test-client-32 disconnected.
+1745845648: Client test-client-16 disconnected.
+1745845648: Client test-client-28 disconnected.
+1745845648: Client test-client-13 disconnected.
+1745845648: Client test-client-33 disconnected.
+1745845648: Client test-client-25 disconnected.
+1745845648: Client test-client-24 disconnected.
+1745845648: Client test-client-2 disconnected.
+1745845648: Client test-client-9 disconnected.
+1745845648: Client test-client-1 disconnected.
+1745845648: Client test-client-12 disconnected.
+1745845648: Client test-client-42 disconnected.
+1745845648: Client test-client-11 disconnected.
+1745845648: Client test-client-29 disconnected.
+1745845648: Client test-client-43 disconnected.
+1745845648: Client test-client-41 disconnected.
+1745845648: Client test-client-20 disconnected.
+1745845648: Client test-client-39 disconnected.
+1745845648: Client test-client-7 disconnected.
+1745845648: Client test-client-38 disconnected.
+1745845648: Client test-client-30 disconnected.
+1745845648: Client test-client-35 disconnected.
+1745845648: Client test-client-19 disconnected.
+1745845648: Client test-client-31 disconnected.
+1745845648: Client test-client-18 disconnected.
+1745845648: Client test-client-34 disconnected.
+1745845648: Client test-client-45 disconnected.
+1745845648: Client test-client-40 disconnected.
+1745845648: Client test-client-6 disconnected.
+1745845648: Client test-client-44 disconnected.
+1745845648: Client test-client-3 disconnected.
+1745845648: Client test-client-48 disconnected.
+1745845648: Client test-client-36 disconnected.
+1745845648: Client test-client-50 disconnected.
+1745845648: Client test-client-15 disconnected.
+1745845648: Client test-client-26 disconnected.
+1745845648: Client test-client-27 disconnected.
+1745845648: Client test-client-23 disconnected.
+1745845648: Client test-client-22 disconnected.
+1745845648: Client test-client-21 disconnected.
+1745845648: Client test-client-47 disconnected.
+1745845648: Client test-client-37 disconnected.
+1745845648: Client test-client-5 disconnected.
+1745845648: Client test-client-46 disconnected.
+1745845648: Client test-client-49 disconnected.
+1745845648: Client test-client-8 disconnected.
+1745845655: New connection from 172.24.0.1:59054 on port 1883.
+1745845655: New connection from 172.24.0.1:59068 on port 1883.
+1745845655: New connection from 172.24.0.1:59080 on port 1883.
+1745845655: New connection from 172.24.0.1:59090 on port 1883.
+1745845655: New connection from 172.24.0.1:59092 on port 1883.
+1745845655: New connection from 172.24.0.1:59102 on port 1883.
+1745845655: New client connected from 172.24.0.1:59054 as test-client-14 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59068 as test-client-15 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59080 as test-client-1 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59090 as test-client-18 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59092 as test-client-3 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59102 as test-client-8 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59106 on port 1883.
+1745845655: New connection from 172.24.0.1:59118 on port 1883.
+1745845655: New connection from 172.24.0.1:59128 on port 1883.
+1745845655: New connection from 172.24.0.1:59144 on port 1883.
+1745845655: New connection from 172.24.0.1:59156 on port 1883.
+1745845655: New connection from 172.24.0.1:59166 on port 1883.
+1745845655: New connection from 172.24.0.1:59170 on port 1883.
+1745845655: New connection from 172.24.0.1:59186 on port 1883.
+1745845655: New connection from 172.24.0.1:59198 on port 1883.
+1745845655: New connection from 172.24.0.1:59212 on port 1883.
+1745845655: New connection from 172.24.0.1:59222 on port 1883.
+1745845655: New connection from 172.24.0.1:59230 on port 1883.
+1745845655: New connection from 172.24.0.1:59236 on port 1883.
+1745845655: New connection from 172.24.0.1:59242 on port 1883.
+1745845655: New connection from 172.24.0.1:59252 on port 1883.
+1745845655: New connection from 172.24.0.1:59266 on port 1883.
+1745845655: New client connected from 172.24.0.1:59106 as test-client-6 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59118 as test-client-9 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59128 as test-client-16 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59144 as test-client-5 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59156 as test-client-17 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59166 as test-client-7 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59170 as test-client-12 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59186 as test-client-4 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59198 as test-client-13 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59212 as test-client-2 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59222 as test-client-10 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59230 as test-client-11 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59236 as test-client-20 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59242 as test-client-21 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59252 as test-client-19 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59266 as test-client-22 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59274 on port 1883.
+1745845655: New connection from 172.24.0.1:59276 on port 1883.
+1745845655: New connection from 172.24.0.1:59292 on port 1883.
+1745845655: New client connected from 172.24.0.1:59274 as test-client-24 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59292 as test-client-23 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59276 as test-client-25 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59300 on port 1883.
+1745845655: New connection from 172.24.0.1:59316 on port 1883.
+1745845655: New client connected from 172.24.0.1:59300 as test-client-27 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59316 as test-client-26 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59318 on port 1883.
+1745845655: New connection from 172.24.0.1:59328 on port 1883.
+1745845655: New client connected from 172.24.0.1:59328 as test-client-28 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59318 as test-client-29 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59334 on port 1883.
+1745845655: New client connected from 172.24.0.1:59334 as test-client-32 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59336 on port 1883.
+1745845655: New connection from 172.24.0.1:59342 on port 1883.
+1745845655: New client connected from 172.24.0.1:59336 as test-client-31 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59342 as test-client-33 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59346 on port 1883.
+1745845655: New client connected from 172.24.0.1:59346 as test-client-30 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59350 on port 1883.
+1745845655: New client connected from 172.24.0.1:59350 as test-client-34 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59366 on port 1883.
+1745845655: New connection from 172.24.0.1:59372 on port 1883.
+1745845655: New client connected from 172.24.0.1:59372 as test-client-36 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59366 as test-client-35 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59374 on port 1883.
+1745845655: New client connected from 172.24.0.1:59374 as test-client-37 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59380 on port 1883.
+1745845655: New client connected from 172.24.0.1:59380 as test-client-38 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59386 on port 1883.
+1745845655: New client connected from 172.24.0.1:59386 as test-client-40 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59398 on port 1883.
+1745845655: New client connected from 172.24.0.1:59398 as test-client-39 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59410 on port 1883.
+1745845655: New connection from 172.24.0.1:59414 on port 1883.
+1745845655: New client connected from 172.24.0.1:59410 as test-client-42 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59430 on port 1883.
+1745845655: New client connected from 172.24.0.1:59414 as test-client-43 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59440 on port 1883.
+1745845655: New client connected from 172.24.0.1:59430 as test-client-45 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59442 on port 1883.
+1745845655: New client connected from 172.24.0.1:59440 as test-client-44 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59452 on port 1883.
+1745845655: New client connected from 172.24.0.1:59442 as test-client-41 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59452 as test-client-46 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59464 on port 1883.
+1745845655: New connection from 172.24.0.1:59476 on port 1883.
+1745845655: New connection from 172.24.0.1:59492 on port 1883.
+1745845655: New client connected from 172.24.0.1:59476 as test-client-49 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59492 as test-client-48 (p2, c1, k60, u'admin').
+1745845655: New client connected from 172.24.0.1:59464 as test-client-47 (p2, c1, k60, u'admin').
+1745845655: New connection from 172.24.0.1:59498 on port 1883.
+1745845655: New client connected from 172.24.0.1:59498 as test-client-50 (p2, c1, k60, u'admin').
+1745845657: Client test-client-50 disconnected.
+1745845657: Client test-client-30 disconnected.
+1745845657: Client test-client-40 disconnected.
+1745845657: Client test-client-10 disconnected.
+1745845657: Client test-client-20 disconnected.
+1745845657: Client test-client-9 disconnected.
+1745845657: Client test-client-28 disconnected.
+1745845657: Client test-client-13 disconnected.
+1745845657: Client test-client-12 disconnected.
+1745845657: Client test-client-8 disconnected.
+1745845657: Client test-client-14 disconnected.
+1745845657: Client test-client-26 disconnected.
+1745845657: Client test-client-11 disconnected.
+1745845657: Client test-client-49 disconnected.
+1745845657: Client test-client-39 disconnected.
+1745845657: Client test-client-43 disconnected.
+1745845657: Client test-client-18 disconnected.
+1745845657: Client test-client-16 disconnected.
+1745845657: Client test-client-5 disconnected.
+1745845657: Client test-client-33 disconnected.
+1745845657: Client test-client-24 disconnected.
+1745845657: Client test-client-22 disconnected.
+1745845657: Client test-client-29 disconnected.
+1745845657: Client test-client-31 disconnected.
+1745845657: Client test-client-36 disconnected.
+1745845657: Client test-client-19 disconnected.
+1745845657: Client test-client-46 disconnected.
+1745845657: Client test-client-6 disconnected.
+1745845657: Client test-client-45 disconnected.
+1745845657: Client test-client-23 disconnected.
+1745845657: Client test-client-2 disconnected.
+1745845657: Client test-client-1 disconnected.
+1745845657: Client test-client-44 disconnected.
+1745845657: Client test-client-47 disconnected.
+1745845657: Client test-client-4 disconnected.
+1745845657: Client test-client-34 disconnected.
+1745845657: Client test-client-42 disconnected.
+1745845657: Client test-client-48 disconnected.
+1745845657: Client test-client-15 disconnected.
+1745845657: Client test-client-7 disconnected.
+1745845657: Client test-client-17 disconnected.
+1745845657: Client test-client-21 disconnected.
+1745845657: Client test-client-38 disconnected.
+1745845657: Client test-client-35 disconnected.
+1745845657: Client test-client-32 disconnected.
+1745845657: Client test-client-41 disconnected.
+1745845657: Client test-client-37 disconnected.
+1745845657: Client test-client-27 disconnected.
+1745845657: Client test-client-25 disconnected.
+1745845657: Client test-client-3 disconnected.
+1745845894: New connection from 172.24.0.1:42758 on port 1883.
+1745845894: New connection from 172.24.0.1:42766 on port 1883.
+1745845894: New connection from 172.24.0.1:42770 on port 1883.
+1745845894: New connection from 172.24.0.1:42774 on port 1883.
+1745845894: New client connected from 172.24.0.1:42758 as test-client-5 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42774 as test-client-3 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42770 as test-client-26 (p2, c1, k60, u'admin').
+1745845894: New connection from 172.24.0.1:42784 on port 1883.
+1745845894: New connection from 172.24.0.1:42786 on port 1883.
+1745845894: New connection from 172.24.0.1:42802 on port 1883.
+1745845894: New connection from 172.24.0.1:42810 on port 1883.
+1745845894: New connection from 172.24.0.1:42820 on port 1883.
+1745845894: New connection from 172.24.0.1:42832 on port 1883.
+1745845894: New connection from 172.24.0.1:42846 on port 1883.
+1745845894: New client connected from 172.24.0.1:42766 as test-client-6 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42784 as test-client-8 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42786 as test-client-13 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42802 as test-client-24 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42810 as test-client-27 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42820 as test-client-20 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42832 as test-client-25 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42846 as test-client-15 (p2, c1, k60, u'admin').
+1745845894: New connection from 172.24.0.1:42850 on port 1883.
+1745845894: New connection from 172.24.0.1:42860 on port 1883.
+1745845894: New connection from 172.24.0.1:42870 on port 1883.
+1745845894: New connection from 172.24.0.1:42876 on port 1883.
+1745845894: New connection from 172.24.0.1:42890 on port 1883.
+1745845894: New connection from 172.24.0.1:42894 on port 1883.
+1745845894: New connection from 172.24.0.1:42906 on port 1883.
+1745845894: New connection from 172.24.0.1:42914 on port 1883.
+1745845894: New connection from 172.24.0.1:42922 on port 1883.
+1745845894: New connection from 172.24.0.1:42936 on port 1883.
+1745845894: New connection from 172.24.0.1:42950 on port 1883.
+1745845894: New client connected from 172.24.0.1:42850 as test-client-28 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42860 as test-client-11 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42870 as test-client-19 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42890 as test-client-12 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42894 as test-client-17 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42906 as test-client-21 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42914 as test-client-4 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42922 as test-client-14 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42936 as test-client-23 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42876 as test-client-7 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42950 as test-client-9 (p2, c1, k60, u'admin').
+1745845894: New connection from 172.24.0.1:42960 on port 1883.
+1745845894: New connection from 172.24.0.1:42974 on port 1883.
+1745845894: New connection from 172.24.0.1:42986 on port 1883.
+1745845894: New connection from 172.24.0.1:43000 on port 1883.
+1745845894: New connection from 172.24.0.1:43010 on port 1883.
+1745845894: New connection from 172.24.0.1:43024 on port 1883.
+1745845894: New connection from 172.24.0.1:43036 on port 1883.
+1745845894: New connection from 172.24.0.1:43038 on port 1883.
+1745845894: New connection from 172.24.0.1:43048 on port 1883.
+1745845894: New connection from 172.24.0.1:43056 on port 1883.
+1745845894: New connection from 172.24.0.1:43068 on port 1883.
+1745845894: New connection from 172.24.0.1:43074 on port 1883.
+1745845894: New connection from 172.24.0.1:43090 on port 1883.
+1745845894: New connection from 172.24.0.1:43094 on port 1883.
+1745845894: New connection from 172.24.0.1:43102 on port 1883.
+1745845894: New connection from 172.24.0.1:43110 on port 1883.
+1745845894: New client connected from 172.24.0.1:42960 as test-client-29 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42974 as test-client-2 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:42986 as test-client-30 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43000 as test-client-34 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43010 as test-client-16 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43024 as test-client-10 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43036 as test-client-1 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43038 as test-client-33 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43048 as test-client-22 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43056 as test-client-31 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43068 as test-client-32 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43074 as test-client-18 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43090 as test-client-38 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43094 as test-client-35 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43102 as test-client-37 (p2, c1, k60, u'admin').
+1745845894: New connection from 172.24.0.1:43122 on port 1883.
+1745845894: New client connected from 172.24.0.1:43110 as test-client-36 (p2, c1, k60, u'admin').
+1745845894: New connection from 172.24.0.1:43136 on port 1883.
+1745845894: New client connected from 172.24.0.1:43122 as test-client-39 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43136 as test-client-40 (p2, c1, k60, u'admin').
+1745845894: New connection from 172.24.0.1:43144 on port 1883.
+1745845894: New client connected from 172.24.0.1:43144 as test-client-42 (p2, c1, k60, u'admin').
+1745845894: New connection from 172.24.0.1:43156 on port 1883.
+1745845894: New connection from 172.24.0.1:43162 on port 1883.
+1745845894: New client connected from 172.24.0.1:43156 as test-client-41 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43162 as test-client-44 (p2, c1, k60, u'admin').
+1745845894: New connection from 172.24.0.1:43170 on port 1883.
+1745845894: New client connected from 172.24.0.1:43170 as test-client-45 (p2, c1, k60, u'admin').
+1745845894: New connection from 172.24.0.1:43176 on port 1883.
+1745845894: New connection from 172.24.0.1:43178 on port 1883.
+1745845894: New client connected from 172.24.0.1:43176 as test-client-46 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43178 as test-client-43 (p2, c1, k60, u'admin').
+1745845894: New connection from 172.24.0.1:43180 on port 1883.
+1745845894: New client connected from 172.24.0.1:43180 as test-client-48 (p2, c1, k60, u'admin').
+1745845894: New connection from 172.24.0.1:43184 on port 1883.
+1745845894: New connection from 172.24.0.1:43186 on port 1883.
+1745845894: New client connected from 172.24.0.1:43186 as test-client-49 (p2, c1, k60, u'admin').
+1745845894: New client connected from 172.24.0.1:43184 as test-client-47 (p2, c1, k60, u'admin').
+1745845894: New connection from 172.24.0.1:43202 on port 1883.
+1745845894: New client connected from 172.24.0.1:43202 as test-client-50 (p2, c1, k60, u'admin').
+1745845896: Client test-client-26 disconnected.
+1745845896: Client test-client-3 disconnected.
+1745845896: Client test-client-48 disconnected.
+1745845896: Client test-client-8 disconnected.
+1745845896: Client test-client-23 disconnected.
+1745845896: Client test-client-6 disconnected.
+1745845896: Client test-client-13 disconnected.
+1745845896: Client test-client-7 disconnected.
+1745845896: Client test-client-20 disconnected.
+1745845896: Client test-client-18 disconnected.
+1745845896: Client test-client-17 disconnected.
+1745845896: Client test-client-19 disconnected.
+1745845896: Client test-client-24 disconnected.
+1745845896: Client test-client-37 disconnected.
+1745845896: Client test-client-25 disconnected.
+1745845896: Client test-client-14 disconnected.
+1745845896: Client test-client-39 disconnected.
+1745845896: Client test-client-32 disconnected.
+1745845896: Client test-client-42 disconnected.
+1745845896: Client test-client-9 disconnected.
+1745845896: Client test-client-1 disconnected.
+1745845896: Client test-client-22 disconnected.
+1745845896: Client test-client-47 disconnected.
+1745845896: Client test-client-10 disconnected.
+1745845896: Client test-client-30 disconnected.
+1745845896: Client test-client-5 disconnected.
+1745845896: Client test-client-33 disconnected.
+1745845896: Client test-client-12 disconnected.
+1745845896: Client test-client-27 disconnected.
+1745845896: Client test-client-45 disconnected.
+1745845896: Client test-client-35 disconnected.
+1745845896: Client test-client-41 disconnected.
+1745845896: Client test-client-34 disconnected.
+1745845896: Client test-client-40 disconnected.
+1745845896: Client test-client-49 disconnected.
+1745845896: Client test-client-28 disconnected.
+1745845896: Client test-client-29 disconnected.
+1745845896: Client test-client-38 disconnected.
+1745845896: Client test-client-2 disconnected.
+1745845896: Client test-client-36 disconnected.
+1745845896: Client test-client-16 disconnected.
+1745845896: Client test-client-43 disconnected.
+1745845896: Client test-client-4 disconnected.
+1745845896: Client test-client-44 disconnected.
+1745845896: Client test-client-15 disconnected.
+1745845896: Client test-client-11 disconnected.
+1745845896: Client test-client-31 disconnected.
+1745845896: Client test-client-21 disconnected.
+1745845896: Client test-client-46 disconnected.
+1745845896: Client test-client-50 disconnected.
+1745845931: New connection from 172.24.0.1:41988 on port 1883.
+1745845931: New connection from 172.24.0.1:41994 on port 1883.
+1745845931: New client connected from 172.24.0.1:41988 as test-client-1 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:41994 as test-client-13 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42006 on port 1883.
+1745845931: New connection from 172.24.0.1:42010 on port 1883.
+1745845931: New connection from 172.24.0.1:42020 on port 1883.
+1745845931: New client connected from 172.24.0.1:42006 as test-client-5 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42010 as test-client-26 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42020 as test-client-21 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42024 on port 1883.
+1745845931: New connection from 172.24.0.1:42032 on port 1883.
+1745845931: New connection from 172.24.0.1:42036 on port 1883.
+1745845931: New connection from 172.24.0.1:42038 on port 1883.
+1745845931: New connection from 172.24.0.1:42040 on port 1883.
+1745845931: New connection from 172.24.0.1:42046 on port 1883.
+1745845931: New connection from 172.24.0.1:42056 on port 1883.
+1745845931: New client connected from 172.24.0.1:42024 as test-client-25 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42032 as test-client-27 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42036 as test-client-10 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42038 as test-client-8 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42040 as test-client-7 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42046 as test-client-20 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42056 as test-client-23 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42062 on port 1883.
+1745845931: New connection from 172.24.0.1:42064 on port 1883.
+1745845931: New connection from 172.24.0.1:42076 on port 1883.
+1745845931: New connection from 172.24.0.1:42080 on port 1883.
+1745845931: New connection from 172.24.0.1:42086 on port 1883.
+1745845931: New connection from 172.24.0.1:42090 on port 1883.
+1745845931: New connection from 172.24.0.1:42092 on port 1883.
+1745845931: New connection from 172.24.0.1:42100 on port 1883.
+1745845931: New connection from 172.24.0.1:42110 on port 1883.
+1745845931: New connection from 172.24.0.1:42118 on port 1883.
+1745845931: New client connected from 172.24.0.1:42062 as test-client-17 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42064 as test-client-9 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42076 as test-client-6 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42080 as test-client-16 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42086 as test-client-11 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42090 as test-client-24 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42092 as test-client-3 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42100 as test-client-28 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42126 on port 1883.
+1745845931: New connection from 172.24.0.1:42136 on port 1883.
+1745845931: New connection from 172.24.0.1:42146 on port 1883.
+1745845931: New connection from 172.24.0.1:42148 on port 1883.
+1745845931: New connection from 172.24.0.1:42154 on port 1883.
+1745845931: New connection from 172.24.0.1:42162 on port 1883.
+1745845931: New connection from 172.24.0.1:42176 on port 1883.
+1745845931: New connection from 172.24.0.1:42188 on port 1883.
+1745845931: New connection from 172.24.0.1:42202 on port 1883.
+1745845931: New connection from 172.24.0.1:42216 on port 1883.
+1745845931: New client connected from 172.24.0.1:42110 as test-client-15 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42118 as test-client-14 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42126 as test-client-18 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42136 as test-client-22 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42146 as test-client-4 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42148 as test-client-12 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42154 as test-client-29 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42162 as test-client-19 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42176 as test-client-2 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42188 as test-client-30 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42202 as test-client-31 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42216 as test-client-32 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42222 on port 1883.
+1745845931: New connection from 172.24.0.1:42226 on port 1883.
+1745845931: New connection from 172.24.0.1:42228 on port 1883.
+1745845931: New client connected from 172.24.0.1:42222 as test-client-34 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42228 as test-client-36 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42234 on port 1883.
+1745845931: New client connected from 172.24.0.1:42234 as test-client-38 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42242 on port 1883.
+1745845931: New connection from 172.24.0.1:42258 on port 1883.
+1745845931: New client connected from 172.24.0.1:42226 as test-client-33 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42242 as test-client-37 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42258 as test-client-35 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42274 on port 1883.
+1745845931: New client connected from 172.24.0.1:42274 as test-client-39 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42278 on port 1883.
+1745845931: New client connected from 172.24.0.1:42278 as test-client-40 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42290 on port 1883.
+1745845931: New connection from 172.24.0.1:42306 on port 1883.
+1745845931: New client connected from 172.24.0.1:42306 as test-client-42 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42290 as test-client-41 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42312 on port 1883.
+1745845931: New connection from 172.24.0.1:42318 on port 1883.
+1745845931: New client connected from 172.24.0.1:42312 as test-client-43 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42332 on port 1883.
+1745845931: New client connected from 172.24.0.1:42318 as test-client-44 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42332 as test-client-45 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42348 on port 1883.
+1745845931: New client connected from 172.24.0.1:42348 as test-client-46 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42360 on port 1883.
+1745845931: New client connected from 172.24.0.1:42360 as test-client-47 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42372 on port 1883.
+1745845931: New client connected from 172.24.0.1:42372 as test-client-48 (p2, c1, k60, u'admin').
+1745845931: New connection from 172.24.0.1:42382 on port 1883.
+1745845931: New connection from 172.24.0.1:42388 on port 1883.
+1745845931: New client connected from 172.24.0.1:42382 as test-client-50 (p2, c1, k60, u'admin').
+1745845931: New client connected from 172.24.0.1:42388 as test-client-49 (p2, c1, k60, u'admin').
+1745845932: Client test-client-17 disconnected.
+1745845932: Client test-client-40 disconnected.
+1745845932: Client test-client-11 disconnected.
+1745845932: Client test-client-20 disconnected.
+1745845932: Client test-client-25 disconnected.
+1745845932: Client test-client-19 disconnected.
+1745845932: Client test-client-18 disconnected.
+1745845932: Client test-client-33 disconnected.
+1745845932: Client test-client-27 disconnected.
+1745845932: Client test-client-22 disconnected.
+1745845932: Client test-client-23 disconnected.
+1745845932: Client test-client-29 disconnected.
+1745845932: Client test-client-41 disconnected.
+1745845932: Client test-client-48 disconnected.
+1745845932: Client test-client-16 disconnected.
+1745845932: Client test-client-37 disconnected.
+1745845932: Client test-client-30 disconnected.
+1745845932: Client test-client-28 disconnected.
+1745845932: Client test-client-21 disconnected.
+1745845932: Client test-client-49 disconnected.
+1745845932: Client test-client-47 disconnected.
+1745845932: Client test-client-14 disconnected.
+1745845932: Client test-client-43 disconnected.
+1745845932: Client test-client-46 disconnected.
+1745845932: Client test-client-42 disconnected.
+1745845932: Client test-client-35 disconnected.
+1745845932: Client test-client-44 disconnected.
+1745845932: Client test-client-34 disconnected.
+1745845932: Client test-client-24 disconnected.
+1745845932: Client test-client-45 disconnected.
+1745845932: Client test-client-15 disconnected.
+1745845932: Client test-client-50 disconnected.
+1745845932: Client test-client-39 disconnected.
+1745845932: Client test-client-38 disconnected.
+1745845932: Client test-client-36 disconnected.
+1745845932: Client test-client-26 disconnected.
+1745845932: Client test-client-12 disconnected.
+1745845932: Client test-client-13 disconnected.
+1745845932: Client test-client-31 disconnected.
+1745845932: Client test-client-32 disconnected.
+1745845932: Client test-client-6 disconnected.
+1745845932: Client test-client-5 disconnected.
+1745845932: Client test-client-4 disconnected.
+1745845932: Client test-client-10 disconnected.
+1745845932: Client test-client-8 disconnected.
+1745845932: Client test-client-3 disconnected.
+1745845932: Client test-client-7 disconnected.
+1745845932: Client test-client-1 disconnected.
+1745845932: Client test-client-2 disconnected.
+1745845932: Client test-client-9 disconnected.
+1745845943: New connection from 172.24.0.1:35550 on port 1883.
+1745845943: New connection from 172.24.0.1:35554 on port 1883.
+1745845943: New connection from 172.24.0.1:35562 on port 1883.
+1745845943: New connection from 172.24.0.1:35568 on port 1883.
+1745845943: New connection from 172.24.0.1:35570 on port 1883.
+1745845943: New client connected from 172.24.0.1:35550 as test-client-7 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35554 as test-client-4 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35562 as test-client-12 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35568 as test-client-15 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35570 as test-client-6 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35574 on port 1883.
+1745845943: New connection from 172.24.0.1:35578 on port 1883.
+1745845943: New connection from 172.24.0.1:35586 on port 1883.
+1745845943: New connection from 172.24.0.1:35592 on port 1883.
+1745845943: New connection from 172.24.0.1:35608 on port 1883.
+1745845943: New connection from 172.24.0.1:35598 on port 1883.
+1745845943: New connection from 172.24.0.1:35610 on port 1883.
+1745845943: New connection from 172.24.0.1:35622 on port 1883.
+1745845943: New connection from 172.24.0.1:35626 on port 1883.
+1745845943: New connection from 172.24.0.1:35638 on port 1883.
+1745845943: New connection from 172.24.0.1:35646 on port 1883.
+1745845943: New connection from 172.24.0.1:35650 on port 1883.
+1745845943: New connection from 172.24.0.1:35652 on port 1883.
+1745845943: New connection from 172.24.0.1:35658 on port 1883.
+1745845943: New connection from 172.24.0.1:35670 on port 1883.
+1745845943: New connection from 172.24.0.1:35674 on port 1883.
+1745845943: New connection from 172.24.0.1:35680 on port 1883.
+1745845943: New connection from 172.24.0.1:35692 on port 1883.
+1745845943: New connection from 172.24.0.1:35686 on port 1883.
+1745845943: New connection from 172.24.0.1:35694 on port 1883.
+1745845943: New connection from 172.24.0.1:35700 on port 1883.
+1745845943: New connection from 172.24.0.1:35714 on port 1883.
+1745845943: New connection from 172.24.0.1:35724 on port 1883.
+1745845943: New connection from 172.24.0.1:35730 on port 1883.
+1745845943: New client connected from 172.24.0.1:35574 as test-client-1 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35578 as test-client-19 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35586 as test-client-9 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35592 as test-client-21 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35608 as test-client-23 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35598 as test-client-24 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35610 as test-client-10 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35622 as test-client-14 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35626 as test-client-16 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35638 as test-client-8 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35646 as test-client-2 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35650 as test-client-25 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35652 as test-client-11 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35658 as test-client-22 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35670 as test-client-13 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35674 as test-client-3 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35680 as test-client-20 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35686 as test-client-18 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35694 as test-client-27 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35700 as test-client-17 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35714 as test-client-29 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35692 as test-client-26 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35724 as test-client-28 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35744 on port 1883.
+1745845943: New client connected from 172.24.0.1:35730 as test-client-30 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35744 as test-client-5 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35750 on port 1883.
+1745845943: New connection from 172.24.0.1:35754 on port 1883.
+1745845943: New connection from 172.24.0.1:35756 on port 1883.
+1745845943: New client connected from 172.24.0.1:35754 as test-client-33 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35756 as test-client-32 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35750 as test-client-31 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35770 on port 1883.
+1745845943: New client connected from 172.24.0.1:35770 as test-client-37 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35780 on port 1883.
+1745845943: New client connected from 172.24.0.1:35780 as test-client-34 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35792 on port 1883.
+1745845943: New connection from 172.24.0.1:35808 on port 1883.
+1745845943: New client connected from 172.24.0.1:35792 as test-client-36 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35808 as test-client-35 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35812 on port 1883.
+1745845943: New client connected from 172.24.0.1:35812 as test-client-39 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35824 on port 1883.
+1745845943: New connection from 172.24.0.1:35826 on port 1883.
+1745845943: New client connected from 172.24.0.1:35824 as test-client-38 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35828 on port 1883.
+1745845943: New connection from 172.24.0.1:35840 on port 1883.
+1745845943: New client connected from 172.24.0.1:35826 as test-client-41 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35828 as test-client-40 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35840 as test-client-43 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35854 on port 1883.
+1745845943: New client connected from 172.24.0.1:35854 as test-client-44 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35866 on port 1883.
+1745845943: New client connected from 172.24.0.1:35866 as test-client-42 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35872 on port 1883.
+1745845943: New client connected from 172.24.0.1:35872 as test-client-45 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35888 on port 1883.
+1745845943: New connection from 172.24.0.1:35896 on port 1883.
+1745845943: New client connected from 172.24.0.1:35896 as test-client-47 (p2, c1, k60, u'admin').
+1745845943: New client connected from 172.24.0.1:35888 as test-client-46 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35912 on port 1883.
+1745845943: New client connected from 172.24.0.1:35912 as test-client-48 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35918 on port 1883.
+1745845943: New client connected from 172.24.0.1:35918 as test-client-49 (p2, c1, k60, u'admin').
+1745845943: New connection from 172.24.0.1:35926 on port 1883.
+1745845943: New client connected from 172.24.0.1:35926 as test-client-50 (p2, c1, k60, u'admin').
+1745845944: Client test-client-44 disconnected.
+1745845944: Client test-client-4 disconnected.
+1745845944: Client test-client-23 disconnected.
+1745845944: Client test-client-2 disconnected.
+1745845944: Client test-client-10 disconnected.
+1745845944: Client test-client-12 disconnected.
+1745845944: Client test-client-9 disconnected.
+1745845944: Client test-client-27 disconnected.
+1745845944: Client test-client-11 disconnected.
+1745845944: Client test-client-15 disconnected.
+1745845944: Client test-client-22 disconnected.
+1745845944: Client test-client-8 disconnected.
+1745845944: Client test-client-21 disconnected.
+1745845944: Client test-client-32 disconnected.
+1745845944: Client test-client-48 disconnected.
+1745845944: Client test-client-7 disconnected.
+1745845944: Client test-client-42 disconnected.
+1745845944: Client test-client-25 disconnected.
+1745845944: Client test-client-20 disconnected.
+1745845944: Client test-client-31 disconnected.
+1745845944: Client test-client-6 disconnected.
+1745845944: Client test-client-36 disconnected.
+1745845944: Client test-client-16 disconnected.
+1745845944: Client test-client-46 disconnected.
+1745845944: Client test-client-35 disconnected.
+1745845944: Client test-client-38 disconnected.
+1745845944: Client test-client-3 disconnected.
+1745845944: Client test-client-5 disconnected.
+1745845944: Client test-client-14 disconnected.
+1745845944: Client test-client-30 disconnected.
+1745845944: Client test-client-18 disconnected.
+1745845944: Client test-client-17 disconnected.
+1745845944: Client test-client-39 disconnected.
+1745845944: Client test-client-1 disconnected.
+1745845944: Client test-client-28 disconnected.
+1745845944: Client test-client-13 disconnected.
+1745845944: Client test-client-19 disconnected.
+1745845944: Client test-client-29 disconnected.
+1745845944: Client test-client-43 disconnected.
+1745845944: Client test-client-49 disconnected.
+1745845944: Client test-client-47 disconnected.
+1745845944: Client test-client-34 disconnected.
+1745845944: Client test-client-24 disconnected.
+1745845944: Client test-client-26 disconnected.
+1745845944: Client test-client-37 disconnected.
+1745845944: Client test-client-40 disconnected.
+1745845944: Client test-client-45 disconnected.
+1745845944: Client test-client-50 disconnected.
+1745845944: Client test-client-33 disconnected.
+1745845944: Client test-client-41 disconnected.
+1745845954: New connection from 172.24.0.1:57988 on port 1883.
+1745845954: New client connected from 172.24.0.1:57988 as test-client-12 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58004 on port 1883.
+1745845954: New connection from 172.24.0.1:58006 on port 1883.
+1745845954: New connection from 172.24.0.1:58022 on port 1883.
+1745845954: New connection from 172.24.0.1:58032 on port 1883.
+1745845954: New connection from 172.24.0.1:58036 on port 1883.
+1745845954: New connection from 172.24.0.1:58042 on port 1883.
+1745845954: New connection from 172.24.0.1:58048 on port 1883.
+1745845954: New connection from 172.24.0.1:58050 on port 1883.
+1745845954: New client connected from 172.24.0.1:58004 as test-client-27 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58006 as test-client-15 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58022 as test-client-16 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58032 as test-client-9 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58036 as test-client-8 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58042 as test-client-6 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58048 as test-client-14 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58050 as test-client-4 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58056 on port 1883.
+1745845954: New connection from 172.24.0.1:58060 on port 1883.
+1745845954: New connection from 172.24.0.1:58064 on port 1883.
+1745845954: New connection from 172.24.0.1:58074 on port 1883.
+1745845954: New connection from 172.24.0.1:58078 on port 1883.
+1745845954: New connection from 172.24.0.1:58090 on port 1883.
+1745845954: New connection from 172.24.0.1:58098 on port 1883.
+1745845954: New connection from 172.24.0.1:58112 on port 1883.
+1745845954: New connection from 172.24.0.1:58114 on port 1883.
+1745845954: New connection from 172.24.0.1:58118 on port 1883.
+1745845954: New connection from 172.24.0.1:58124 on port 1883.
+1745845954: New connection from 172.24.0.1:58128 on port 1883.
+1745845954: New connection from 172.24.0.1:58140 on port 1883.
+1745845954: New connection from 172.24.0.1:58144 on port 1883.
+1745845954: New connection from 172.24.0.1:58150 on port 1883.
+1745845954: New connection from 172.24.0.1:58160 on port 1883.
+1745845954: New connection from 172.24.0.1:58170 on port 1883.
+1745845954: New connection from 172.24.0.1:58178 on port 1883.
+1745845954: New client connected from 172.24.0.1:58056 as test-client-26 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58060 as test-client-20 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58064 as test-client-7 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58074 as test-client-18 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58078 as test-client-24 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58090 as test-client-22 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58098 as test-client-5 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58112 as test-client-23 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58114 as test-client-1 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58118 as test-client-21 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58124 as test-client-2 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58128 as test-client-17 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58140 as test-client-28 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58144 as test-client-19 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58180 on port 1883.
+1745845954: New connection from 172.24.0.1:58188 on port 1883.
+1745845954: New connection from 172.24.0.1:58200 on port 1883.
+1745845954: New connection from 172.24.0.1:58208 on port 1883.
+1745845954: New connection from 172.24.0.1:58216 on port 1883.
+1745845954: New client connected from 172.24.0.1:58150 as test-client-3 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58160 as test-client-13 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58170 as test-client-29 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58178 as test-client-25 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58220 on port 1883.
+1745845954: New client connected from 172.24.0.1:58180 as test-client-11 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58188 as test-client-10 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58200 as test-client-31 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58216 as test-client-33 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58236 on port 1883.
+1745845954: New client connected from 172.24.0.1:58208 as test-client-32 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58252 on port 1883.
+1745845954: New client connected from 172.24.0.1:58236 as test-client-34 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58220 as test-client-30 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58252 as test-client-35 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58256 on port 1883.
+1745845954: New connection from 172.24.0.1:58270 on port 1883.
+1745845954: New client connected from 172.24.0.1:58256 as test-client-37 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58270 as test-client-36 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58280 on port 1883.
+1745845954: New client connected from 172.24.0.1:58280 as test-client-38 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58292 on port 1883.
+1745845954: New client connected from 172.24.0.1:58292 as test-client-41 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58308 on port 1883.
+1745845954: New connection from 172.24.0.1:58316 on port 1883.
+1745845954: New client connected from 172.24.0.1:58316 as test-client-40 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58308 as test-client-39 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58318 on port 1883.
+1745845954: New client connected from 172.24.0.1:58318 as test-client-43 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58324 on port 1883.
+1745845954: New client connected from 172.24.0.1:58324 as test-client-42 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58336 on port 1883.
+1745845954: New client connected from 172.24.0.1:58336 as test-client-44 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58338 on port 1883.
+1745845954: New client connected from 172.24.0.1:58338 as test-client-46 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58346 on port 1883.
+1745845954: New client connected from 172.24.0.1:58346 as test-client-48 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58356 on port 1883.
+1745845954: New connection from 172.24.0.1:58362 on port 1883.
+1745845954: New client connected from 172.24.0.1:58356 as test-client-45 (p2, c1, k60, u'admin').
+1745845954: New connection from 172.24.0.1:58366 on port 1883.
+1745845954: New connection from 172.24.0.1:58376 on port 1883.
+1745845954: New client connected from 172.24.0.1:58362 as test-client-49 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58366 as test-client-47 (p2, c1, k60, u'admin').
+1745845954: New client connected from 172.24.0.1:58376 as test-client-50 (p2, c1, k60, u'admin').
+1745845955: Client test-client-27 disconnected.
+1745845955: Client test-client-9 disconnected.
+1745845955: Client test-client-7 disconnected.
+1745845955: Client test-client-8 disconnected.
+1745845955: Client test-client-4 disconnected.
+1745845955: Client test-client-3 disconnected.
+1745845955: Client test-client-29 disconnected.
+1745845955: Client test-client-39 disconnected.
+1745845955: Client test-client-16 disconnected.
+1745845955: Client test-client-33 disconnected.
+1745845955: Client test-client-37 disconnected.
+1745845955: Client test-client-20 disconnected.
+1745845955: Client test-client-14 disconnected.
+1745845955: Client test-client-19 disconnected.
+1745845955: Client test-client-11 disconnected.
+1745845955: Client test-client-21 disconnected.
+1745845955: Client test-client-23 disconnected.
+1745845955: Client test-client-31 disconnected.
+1745845955: Client test-client-38 disconnected.
+1745845955: Client test-client-43 disconnected.
+1745845955: Client test-client-41 disconnected.
+1745845955: Client test-client-46 disconnected.
+1745845955: Client test-client-26 disconnected.
+1745845955: Client test-client-15 disconnected.
+1745845955: Client test-client-48 disconnected.
+1745845955: Client test-client-6 disconnected.
+1745845955: Client test-client-45 disconnected.
+1745845955: Client test-client-10 disconnected.
+1745845955: Client test-client-24 disconnected.
+1745845955: Client test-client-12 disconnected.
+1745845955: Client test-client-44 disconnected.
+1745845955: Client test-client-22 disconnected.
+1745845955: Client test-client-25 disconnected.
+1745845955: Client test-client-47 disconnected.
+1745845955: Client test-client-5 disconnected.
+1745845955: Client test-client-1 disconnected.
+1745845955: Client test-client-40 disconnected.
+1745845955: Client test-client-17 disconnected.
+1745845955: Client test-client-28 disconnected.
+1745845955: Client test-client-2 disconnected.
+1745845955: Client test-client-18 disconnected.
+1745845955: Client test-client-50 disconnected.
+1745845955: Client test-client-13 disconnected.
+1745845955: Client test-client-34 disconnected.
+1745845955: Client test-client-36 disconnected.
+1745845955: Client test-client-49 disconnected.
+1745845955: Client test-client-35 disconnected.
+1745845955: Client test-client-32 disconnected.
+1745845955: Client test-client-30 disconnected.
+1745845955: Client test-client-42 disconnected.
+1745846216: New connection from 172.24.0.1:34376 on port 1883.
+1745846216: New client connected from 172.24.0.1:34376 as test-client-4 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34386 on port 1883.
+1745846216: New connection from 172.24.0.1:34398 on port 1883.
+1745846216: New connection from 172.24.0.1:34400 on port 1883.
+1745846216: New connection from 172.24.0.1:34412 on port 1883.
+1745846216: New client connected from 172.24.0.1:34386 as test-client-16 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34398 as test-client-11 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34400 as test-client-19 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34412 as test-client-8 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34424 on port 1883.
+1745846216: New connection from 172.24.0.1:34436 on port 1883.
+1745846216: New connection from 172.24.0.1:34448 on port 1883.
+1745846216: New connection from 172.24.0.1:34462 on port 1883.
+1745846216: New connection from 172.24.0.1:34468 on port 1883.
+1745846216: New connection from 172.24.0.1:34476 on port 1883.
+1745846216: New connection from 172.24.0.1:34484 on port 1883.
+1745846216: New connection from 172.24.0.1:34500 on port 1883.
+1745846216: New connection from 172.24.0.1:34508 on port 1883.
+1745846216: New client connected from 172.24.0.1:34424 as test-client-3 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34436 as test-client-12 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34448 as test-client-20 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34462 as test-client-1 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34468 as test-client-7 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34476 as test-client-2 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34484 as test-client-5 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34500 as test-client-17 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34508 as test-client-23 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34534 on port 1883.
+1745846216: New connection from 172.24.0.1:34522 on port 1883.
+1745846216: New connection from 172.24.0.1:34544 on port 1883.
+1745846216: New connection from 172.24.0.1:34550 on port 1883.
+1745846216: New connection from 172.24.0.1:34562 on port 1883.
+1745846216: New connection from 172.24.0.1:34578 on port 1883.
+1745846216: New connection from 172.24.0.1:34584 on port 1883.
+1745846216: New connection from 172.24.0.1:34596 on port 1883.
+1745846216: New connection from 172.24.0.1:34598 on port 1883.
+1745846216: New connection from 172.24.0.1:34604 on port 1883.
+1745846216: New connection from 172.24.0.1:34614 on port 1883.
+1745846216: New connection from 172.24.0.1:34618 on port 1883.
+1745846216: New client connected from 172.24.0.1:34534 as test-client-10 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34522 as test-client-15 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34544 as test-client-13 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34550 as test-client-9 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34562 as test-client-6 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34578 as test-client-21 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34584 as test-client-22 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34596 as test-client-25 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34598 as test-client-18 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34604 as test-client-14 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34618 as test-client-26 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34614 as test-client-24 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34628 on port 1883.
+1745846216: New connection from 172.24.0.1:34632 on port 1883.
+1745846216: New client connected from 172.24.0.1:34628 as test-client-27 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34640 on port 1883.
+1745846216: New client connected from 172.24.0.1:34632 as test-client-28 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34640 as test-client-30 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34646 on port 1883.
+1745846216: New connection from 172.24.0.1:34648 on port 1883.
+1745846216: New client connected from 172.24.0.1:34646 as test-client-31 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34662 on port 1883.
+1745846216: New client connected from 172.24.0.1:34648 as test-client-29 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34662 as test-client-32 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34674 on port 1883.
+1745846216: New client connected from 172.24.0.1:34674 as test-client-33 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34680 on port 1883.
+1745846216: New connection from 172.24.0.1:34690 on port 1883.
+1745846216: New connection from 172.24.0.1:34702 on port 1883.
+1745846216: New client connected from 172.24.0.1:34702 as test-client-36 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34680 as test-client-35 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34690 as test-client-37 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34716 on port 1883.
+1745846216: New connection from 172.24.0.1:34720 on port 1883.
+1745846216: New client connected from 172.24.0.1:34716 as test-client-34 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34730 on port 1883.
+1745846216: New client connected from 172.24.0.1:34720 as test-client-39 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34730 as test-client-38 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34732 on port 1883.
+1745846216: New client connected from 172.24.0.1:34732 as test-client-40 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34748 on port 1883.
+1745846216: New client connected from 172.24.0.1:34748 as test-client-42 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34758 on port 1883.
+1745846216: New client connected from 172.24.0.1:34758 as test-client-41 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34764 on port 1883.
+1745846216: New client connected from 172.24.0.1:34764 as test-client-44 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34772 on port 1883.
+1745846216: New client connected from 172.24.0.1:34772 as test-client-43 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34784 on port 1883.
+1745846216: New client connected from 172.24.0.1:34784 as test-client-45 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34798 on port 1883.
+1745846216: New client connected from 172.24.0.1:34798 as test-client-46 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34804 on port 1883.
+1745846216: New client connected from 172.24.0.1:34804 as test-client-47 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34808 on port 1883.
+1745846216: New connection from 172.24.0.1:34822 on port 1883.
+1745846216: New client connected from 172.24.0.1:34808 as test-client-50 (p2, c1, k60, u'admin').
+1745846216: New connection from 172.24.0.1:34832 on port 1883.
+1745846216: New client connected from 172.24.0.1:34822 as test-client-49 (p2, c1, k60, u'admin').
+1745846216: New client connected from 172.24.0.1:34832 as test-client-48 (p2, c1, k60, u'admin').
+1745846218: Client test-client-5 disconnected.
+1745846218: Client test-client-14 disconnected.
+1745846218: Client test-client-34 disconnected.
+1745846218: Client test-client-23 disconnected.
+1745846218: Client test-client-21 disconnected.
+1745846218: Client test-client-41 disconnected.
+1745846218: Client test-client-11 disconnected.
+1745846218: Client test-client-3 disconnected.
+1745846218: Client test-client-4 disconnected.
+1745846218: Client test-client-8 disconnected.
+1745846218: Client test-client-32 disconnected.
+1745846218: Client test-client-40 disconnected.
+1745846218: Client test-client-33 disconnected.
+1745846218: Client test-client-9 disconnected.
+1745846218: Client test-client-35 disconnected.
+1745846218: Client test-client-24 disconnected.
+1745846218: Client test-client-12 disconnected.
+1745846218: Client test-client-2 disconnected.
+1745846218: Client test-client-39 disconnected.
+1745846218: Client test-client-25 disconnected.
+1745846218: Client test-client-20 disconnected.
+1745846218: Client test-client-15 disconnected.
+1745846218: Client test-client-28 disconnected.
+1745846218: Client test-client-46 disconnected.
+1745846218: Client test-client-19 disconnected.
+1745846218: Client test-client-29 disconnected.
+1745846218: Client test-client-10 disconnected.
+1745846218: Client test-client-43 disconnected.
+1745846218: Client test-client-1 disconnected.
+1745846218: Client test-client-36 disconnected.
+1745846218: Client test-client-7 disconnected.
+1745846218: Client test-client-50 disconnected.
+1745846218: Client test-client-47 disconnected.
+1745846218: Client test-client-17 disconnected.
+1745846218: Client test-client-42 disconnected.
+1745846218: Client test-client-6 disconnected.
+1745846218: Client test-client-16 disconnected.
+1745846218: Client test-client-26 disconnected.
+1745846218: Client test-client-45 disconnected.
+1745846218: Client test-client-31 disconnected.
+1745846218: Client test-client-48 disconnected.
+1745846218: Client test-client-37 disconnected.
+1745846218: Client test-client-18 disconnected.
+1745846218: Client test-client-49 disconnected.
+1745846218: Client test-client-22 disconnected.
+1745846218: Client test-client-13 disconnected.
+1745846218: Client test-client-30 disconnected.
+1745846218: Client test-client-38 disconnected.
+1745846218: Client test-client-27 disconnected.
+1745846218: Client test-client-44 disconnected.
+1745846358: Client rust-mqtt-server-ac4daba8-c3df-4b6b-a1fe-0204fababa4a closed its connection.
+1745846368: New connection from 172.24.0.1:38916 on port 1883.
+1745846368: New client connected from 172.24.0.1:38916 as rust-mqtt-server-2de8d9f3-8959-49cd-af73-32ac3584a1c0 (p2, c1, k60, u'admin').
+1745846372: New connection from 172.24.0.1:38932 on port 1883.
+1745846372: New connection from 172.24.0.1:38938 on port 1883.
+1745846372: New connection from 172.24.0.1:38954 on port 1883.
+1745846372: New connection from 172.24.0.1:38970 on port 1883.
+1745846372: New client connected from 172.24.0.1:38932 as test-client-30 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:38938 as test-client-3 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:38954 as test-client-11 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:38970 as test-client-31 (p2, c1, k60, u'admin').
+1745846372: New connection from 172.24.0.1:38980 on port 1883.
+1745846372: New connection from 172.24.0.1:38994 on port 1883.
+1745846372: New connection from 172.24.0.1:39010 on port 1883.
+1745846372: New connection from 172.24.0.1:39022 on port 1883.
+1745846372: New connection from 172.24.0.1:39032 on port 1883.
+1745846372: New connection from 172.24.0.1:39044 on port 1883.
+1745846372: New connection from 172.24.0.1:39054 on port 1883.
+1745846372: New connection from 172.24.0.1:39066 on port 1883.
+1745846372: New connection from 172.24.0.1:39068 on port 1883.
+1745846372: New connection from 172.24.0.1:39084 on port 1883.
+1745846372: New connection from 172.24.0.1:39088 on port 1883.
+1745846372: New connection from 172.24.0.1:39104 on port 1883.
+1745846372: New connection from 172.24.0.1:39110 on port 1883.
+1745846372: New connection from 172.24.0.1:39124 on port 1883.
+1745846372: New connection from 172.24.0.1:39128 on port 1883.
+1745846372: New connection from 172.24.0.1:39142 on port 1883.
+1745846372: New connection from 172.24.0.1:39144 on port 1883.
+1745846372: New connection from 172.24.0.1:39154 on port 1883.
+1745846372: New connection from 172.24.0.1:39166 on port 1883.
+1745846372: New connection from 172.24.0.1:39182 on port 1883.
+1745846372: New connection from 172.24.0.1:39184 on port 1883.
+1745846372: New client connected from 172.24.0.1:38980 as test-client-13 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:38994 as test-client-5 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39010 as test-client-15 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39022 as test-client-10 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39032 as test-client-34 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39044 as test-client-7 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39054 as test-client-27 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39066 as test-client-9 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39068 as test-client-16 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39084 as test-client-22 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39088 as test-client-28 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39104 as test-client-26 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39110 as test-client-17 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39124 as test-client-4 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39128 as test-client-20 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39142 as test-client-2 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39144 as test-client-14 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39154 as test-client-24 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39166 as test-client-23 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39182 as test-client-33 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39184 as test-client-18 (p2, c1, k60, u'admin').
+1745846372: New connection from 172.24.0.1:39186 on port 1883.
+1745846372: New connection from 172.24.0.1:39202 on port 1883.
+1745846372: New connection from 172.24.0.1:39204 on port 1883.
+1745846372: New connection from 172.24.0.1:39212 on port 1883.
+1745846372: New connection from 172.24.0.1:39222 on port 1883.
+1745846372: New connection from 172.24.0.1:39228 on port 1883.
+1745846372: New connection from 172.24.0.1:39232 on port 1883.
+1745846372: New connection from 172.24.0.1:39238 on port 1883.
+1745846372: New connection from 172.24.0.1:39240 on port 1883.
+1745846372: New connection from 172.24.0.1:39250 on port 1883.
+1745846372: New connection from 172.24.0.1:39254 on port 1883.
+1745846372: New connection from 172.24.0.1:39260 on port 1883.
+1745846372: New connection from 172.24.0.1:39262 on port 1883.
+1745846372: New connection from 172.24.0.1:39270 on port 1883.
+1745846372: New connection from 172.24.0.1:39272 on port 1883.
+1745846372: New connection from 172.24.0.1:39276 on port 1883.
+1745846372: New connection from 172.24.0.1:39292 on port 1883.
+1745846372: New connection from 172.24.0.1:39298 on port 1883.
+1745846372: New connection from 172.24.0.1:39314 on port 1883.
+1745846372: New client connected from 172.24.0.1:39186 as test-client-32 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39202 as test-client-6 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39204 as test-client-25 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39212 as test-client-8 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39222 as test-client-35 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39228 as test-client-19 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39232 as test-client-12 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39238 as test-client-1 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39240 as test-client-21 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39250 as test-client-29 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39254 as test-client-36 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39260 as test-client-38 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39262 as test-client-41 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39270 as test-client-39 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39272 as test-client-43 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39276 as test-client-37 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39292 as test-client-42 (p2, c1, k60, u'admin').
+1745846372: New connection from 172.24.0.1:39326 on port 1883.
+1745846372: New connection from 172.24.0.1:39332 on port 1883.
+1745846372: New connection from 172.24.0.1:39344 on port 1883.
+1745846372: New connection from 172.24.0.1:39348 on port 1883.
+1745846372: New client connected from 172.24.0.1:39298 as test-client-40 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39314 as test-client-47 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39326 as test-client-45 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39344 as test-client-48 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39348 as test-client-44 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39332 as test-client-46 (p2, c1, k60, u'admin').
+1745846372: New connection from 172.24.0.1:39350 on port 1883.
+1745846372: New connection from 172.24.0.1:39362 on port 1883.
+1745846372: New client connected from 172.24.0.1:39350 as test-client-49 (p2, c1, k60, u'admin').
+1745846372: New client connected from 172.24.0.1:39362 as test-client-50 (p2, c1, k60, u'admin').
+1745846373: Client test-client-45 disconnected.
+1745846373: Client test-client-22 disconnected.
+1745846373: Client test-client-21 disconnected.
+1745846373: Client test-client-38 disconnected.
+1745846373: Client test-client-23 disconnected.
+1745846373: Client test-client-31 disconnected.
+1745846373: Client test-client-2 disconnected.
+1745846373: Client test-client-19 disconnected.
+1745846373: Client test-client-30 disconnected.
+1745846373: Client test-client-27 disconnected.
+1745846373: Client test-client-15 disconnected.
+1745846373: Client test-client-3 disconnected.
+1745846373: Client test-client-32 disconnected.
+1745846373: Client test-client-10 disconnected.
+1745846373: Client test-client-8 disconnected.
+1745846373: Client test-client-12 disconnected.
+1745846373: Client test-client-14 disconnected.
+1745846373: Client test-client-20 disconnected.
+1745846373: Client test-client-28 disconnected.
+1745846373: Client test-client-33 disconnected.
+1745846373: Client test-client-37 disconnected.
+1745846373: Client test-client-5 disconnected.
+1745846373: Client test-client-13 disconnected.
+1745846374: Client test-client-17 disconnected.
+1745846374: Client test-client-25 disconnected.
+1745846374: Client test-client-36 disconnected.
+1745846374: Client test-client-11 disconnected.
+1745846374: Client test-client-39 disconnected.
+1745846374: Client test-client-42 disconnected.
+1745846374: Client test-client-29 disconnected.
+1745846374: Client test-client-1 disconnected.
+1745846374: Client test-client-18 disconnected.
+1745846374: Client test-client-50 disconnected.
+1745846374: Client test-client-9 disconnected.
+1745846374: Client test-client-48 disconnected.
+1745846374: Client test-client-6 disconnected.
+1745846374: Client test-client-41 disconnected.
+1745846374: Client test-client-46 disconnected.
+1745846374: Client test-client-35 disconnected.
+1745846374: Client test-client-40 disconnected.
+1745846374: Client test-client-26 disconnected.
+1745846374: Client test-client-44 disconnected.
+1745846374: Client test-client-43 disconnected.
+1745846374: Client test-client-7 disconnected.
+1745846374: Client test-client-24 disconnected.
+1745846374: Client test-client-16 disconnected.
+1745846374: Client test-client-49 disconnected.
+1745846374: Client test-client-47 disconnected.
+1745846374: Client test-client-34 disconnected.
+1745846374: Client test-client-4 disconnected.
+1745846376: New connection from 172.24.0.1:52902 on port 1883.
+1745846376: New client connected from 172.24.0.1:52902 as test-client-5 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:52906 on port 1883.
+1745846376: New connection from 172.24.0.1:52912 on port 1883.
+1745846376: New connection from 172.24.0.1:52924 on port 1883.
+1745846376: New connection from 172.24.0.1:52932 on port 1883.
+1745846376: New connection from 172.24.0.1:52944 on port 1883.
+1745846376: New connection from 172.24.0.1:52950 on port 1883.
+1745846376: New connection from 172.24.0.1:52958 on port 1883.
+1745846376: New connection from 172.24.0.1:52968 on port 1883.
+1745846376: New connection from 172.24.0.1:52962 on port 1883.
+1745846376: New connection from 172.24.0.1:52984 on port 1883.
+1745846376: New connection from 172.24.0.1:52986 on port 1883.
+1745846376: New connection from 172.24.0.1:52988 on port 1883.
+1745846376: New connection from 172.24.0.1:52994 on port 1883.
+1745846376: New connection from 172.24.0.1:52998 on port 1883.
+1745846376: New client connected from 172.24.0.1:52906 as test-client-26 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:52912 as test-client-12 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:52924 as test-client-10 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:52932 as test-client-14 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:52944 as test-client-6 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:52950 as test-client-7 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:52958 as test-client-23 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:52968 as test-client-13 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:52962 as test-client-8 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:52984 as test-client-16 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:52986 as test-client-1 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:52988 as test-client-17 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:52994 as test-client-22 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:52998 as test-client-9 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:53010 on port 1883.
+1745846376: New connection from 172.24.0.1:53024 on port 1883.
+1745846376: New connection from 172.24.0.1:53034 on port 1883.
+1745846376: New connection from 172.24.0.1:53040 on port 1883.
+1745846376: New connection from 172.24.0.1:53056 on port 1883.
+1745846376: New connection from 172.24.0.1:53072 on port 1883.
+1745846376: New connection from 172.24.0.1:53088 on port 1883.
+1745846376: New connection from 172.24.0.1:53102 on port 1883.
+1745846376: New connection from 172.24.0.1:53112 on port 1883.
+1745846376: New connection from 172.24.0.1:53116 on port 1883.
+1745846376: New connection from 172.24.0.1:53124 on port 1883.
+1745846376: New connection from 172.24.0.1:53140 on port 1883.
+1745846376: New connection from 172.24.0.1:53142 on port 1883.
+1745846376: New connection from 172.24.0.1:53148 on port 1883.
+1745846376: New client connected from 172.24.0.1:53010 as test-client-27 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53024 as test-client-18 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53034 as test-client-24 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53040 as test-client-21 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53056 as test-client-15 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53072 as test-client-11 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53088 as test-client-25 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53102 as test-client-19 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53112 as test-client-20 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53116 as test-client-3 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53124 as test-client-28 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53140 as test-client-2 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53142 as test-client-4 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53148 as test-client-29 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:53160 on port 1883.
+1745846376: New client connected from 172.24.0.1:53160 as test-client-30 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:53172 on port 1883.
+1745846376: New connection from 172.24.0.1:53180 on port 1883.
+1745846376: New connection from 172.24.0.1:53194 on port 1883.
+1745846376: New client connected from 172.24.0.1:53172 as test-client-31 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53180 as test-client-32 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53194 as test-client-33 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:53198 on port 1883.
+1745846376: New client connected from 172.24.0.1:53198 as test-client-36 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:53208 on port 1883.
+1745846376: New client connected from 172.24.0.1:53208 as test-client-34 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:53210 on port 1883.
+1745846376: New connection from 172.24.0.1:53226 on port 1883.
+1745846376: New connection from 172.24.0.1:53234 on port 1883.
+1745846376: New client connected from 172.24.0.1:53226 as test-client-35 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:53242 on port 1883.
+1745846376: New client connected from 172.24.0.1:53234 as test-client-38 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53242 as test-client-39 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53210 as test-client-37 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:53246 on port 1883.
+1745846376: New connection from 172.24.0.1:53248 on port 1883.
+1745846376: New client connected from 172.24.0.1:53246 as test-client-40 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:53264 on port 1883.
+1745846376: New connection from 172.24.0.1:53276 on port 1883.
+1745846376: New client connected from 172.24.0.1:53248 as test-client-42 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53264 as test-client-43 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53276 as test-client-44 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:53280 on port 1883.
+1745846376: New client connected from 172.24.0.1:53280 as test-client-45 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:53286 on port 1883.
+1745846376: New client connected from 172.24.0.1:53286 as test-client-41 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:53298 on port 1883.
+1745846376: New client connected from 172.24.0.1:53298 as test-client-46 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:53306 on port 1883.
+1745846376: New connection from 172.24.0.1:53316 on port 1883.
+1745846376: New client connected from 172.24.0.1:53316 as test-client-50 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53306 as test-client-47 (p2, c1, k60, u'admin').
+1745846376: New connection from 172.24.0.1:53326 on port 1883.
+1745846376: New connection from 172.24.0.1:53330 on port 1883.
+1745846376: New client connected from 172.24.0.1:53326 as test-client-49 (p2, c1, k60, u'admin').
+1745846376: New client connected from 172.24.0.1:53330 as test-client-48 (p2, c1, k60, u'admin').
+1745846377: Client test-client-38 disconnected.
+1745846377: Client test-client-22 disconnected.
+1745846377: Client test-client-7 disconnected.
+1745846377: Client test-client-45 disconnected.
+1745846377: Client test-client-30 disconnected.
+1745846377: Client test-client-39 disconnected.
+1745846377: Client test-client-12 disconnected.
+1745846377: Client test-client-13 disconnected.
+1745846377: Client test-client-8 disconnected.
+1745846377: Client test-client-19 disconnected.
+1745846377: Client test-client-27 disconnected.
+1745846377: Client test-client-33 disconnected.
+1745846377: Client test-client-20 disconnected.
+1745846377: Client test-client-16 disconnected.
+1745846377: Client test-client-3 disconnected.
+1745846377: Client test-client-25 disconnected.
+1745846377: Client test-client-48 disconnected.
+1745846377: Client test-client-50 disconnected.
+1745846377: Client test-client-2 disconnected.
+1745846377: Client test-client-5 disconnected.
+1745846377: Client test-client-46 disconnected.
+1745846377: Client test-client-36 disconnected.
+1745846377: Client test-client-4 disconnected.
+1745846377: Client test-client-37 disconnected.
+1745846377: Client test-client-26 disconnected.
+1745846377: Client test-client-28 disconnected.
+1745846377: Client test-client-32 disconnected.
+1745846377: Client test-client-6 disconnected.
+1745846377: Client test-client-21 disconnected.
+1745846377: Client test-client-17 disconnected.
+1745846377: Client test-client-23 disconnected.
+1745846377: Client test-client-34 disconnected.
+1745846377: Client test-client-14 disconnected.
+1745846377: Client test-client-40 disconnected.
+1745846377: Client test-client-43 disconnected.
+1745846377: Client test-client-24 disconnected.
+1745846377: Client test-client-47 disconnected.
+1745846377: Client test-client-31 disconnected.
+1745846377: Client test-client-42 disconnected.
+1745846377: Client test-client-1 disconnected.
+1745846377: Client test-client-9 disconnected.
+1745846377: Client test-client-35 disconnected.
+1745846377: Client test-client-44 disconnected.
+1745846377: Client test-client-15 disconnected.
+1745846377: Client test-client-41 disconnected.
+1745846377: Client test-client-29 disconnected.
+1745846377: Client test-client-11 disconnected.
+1745846377: Client test-client-10 disconnected.
+1745846377: Client test-client-18 disconnected.
+1745846377: Client test-client-49 disconnected.
+1745905740: Client rust-mqtt-server-2de8d9f3-8959-49cd-af73-32ac3584a1c0 closed its connection.
+1745905795: mosquitto version 2.0.15 terminating
+1745910099: mosquitto version 2.0.15 starting
+1745910099: Config loaded from /mosquitto/config/mosquitto.conf.
+1745910099: Opening ipv4 listen socket on port 1883.
+1745910099: Opening websockets listen socket on port 9001.
+1745910099: mosquitto version 2.0.15 running
+1745910687: New connection from 172.24.0.1:39244 on port 1883.
+1745910687: New client connected from 172.24.0.1:39244 as rust-mqtt-server-c7eb654a-ca8b-45b1-b75b-4f8bcb2209e7 (p2, c1, k60, u'admin').
+1745910786: New connection from 172.24.0.1:58468 on port 1883.
+1745910786: New client connected from 172.24.0.1:58468 as test-client-4 (p2, c1, k60, u'admin').
+1745910786: New connection from 172.24.0.1:58476 on port 1883.
+1745910786: New connection from 172.24.0.1:58490 on port 1883.
+1745910786: New client connected from 172.24.0.1:58476 as test-client-5 (p2, c1, k60, u'admin').
+1745910786: New client connected from 172.24.0.1:58490 as test-client-2 (p2, c1, k60, u'admin').
+1745910786: New connection from 172.24.0.1:58498 on port 1883.
+1745910786: New connection from 172.24.0.1:58514 on port 1883.
+1745910786: New client connected from 172.24.0.1:58498 as test-client-1 (p2, c1, k60, u'admin').
+1745910786: New client connected from 172.24.0.1:58514 as test-client-3 (p2, c1, k60, u'admin').
+1745910788: Client test-client-5 disconnected.
+1745910802: Client test-client-3 disconnected.
+1745910802: Client test-client-1 disconnected.
+1745910802: Client test-client-4 disconnected.
+1745910802: Client test-client-2 disconnected.
+1745911446: Client rust-mqtt-server-c7eb654a-ca8b-45b1-b75b-4f8bcb2209e7 closed its connection.
+1745911454: New connection from 172.24.0.1:34802 on port 1883.
+1745911454: New connection from 172.24.0.1:34806 on port 1883.
+1745911454: New connection from 172.24.0.1:34818 on port 1883.
+1745911454: New client connected from 172.24.0.1:34802 as test-client-2 (p2, c1, k60, u'admin').
+1745911454: New client connected from 172.24.0.1:34806 as test-client-5 (p2, c1, k60, u'admin').
+1745911454: New client connected from 172.24.0.1:34818 as test-client-1 (p2, c1, k60, u'admin').
+1745911454: New connection from 172.24.0.1:34834 on port 1883.
+1745911454: New connection from 172.24.0.1:34842 on port 1883.
+1745911454: New client connected from 172.24.0.1:34834 as test-client-3 (p2, c1, k60, u'admin').
+1745911454: New client connected from 172.24.0.1:34842 as test-client-4 (p2, c1, k60, u'admin').
+1745911458: New connection from 172.24.0.1:47120 on port 1883.
+1745911458: New client connected from 172.24.0.1:47120 as rust-mqtt-server-d4f01fe3-0cc3-4627-a51d-b8d46655ac98 (p2, c1, k60, u'admin').
+1745911469: Client test-client-1 disconnected.
+1745911469: Client test-client-3 disconnected.
+1745911469: Client test-client-4 disconnected.
+1745911469: Client test-client-2 disconnected.
+1745911469: Client test-client-5 disconnected.
+1745911513: Client rust-mqtt-server-d4f01fe3-0cc3-4627-a51d-b8d46655ac98 closed its connection.
+1745911527: New connection from 172.24.0.1:35218 on port 1883.
+1745911527: New client connected from 172.24.0.1:35218 as rust-mqtt-server-76b52090-c99b-4569-af8e-1be0d41d8f68 (p2, c1, k60, u'admin').
+1745911536: New connection from 172.24.0.1:35222 on port 1883.
+1745911536: New connection from 172.24.0.1:35234 on port 1883.
+1745911536: New connection from 172.24.0.1:35242 on port 1883.
+1745911536: New connection from 172.24.0.1:35258 on port 1883.
+1745911536: New connection from 172.24.0.1:35266 on port 1883.
+1745911536: New client connected from 172.24.0.1:35222 as test-client-4 (p2, c1, k60, u'admin').
+1745911536: New client connected from 172.24.0.1:35234 as test-client-3 (p2, c1, k60, u'admin').
+1745911536: New client connected from 172.24.0.1:35242 as test-client-1 (p2, c1, k60, u'admin').
+1745911536: New client connected from 172.24.0.1:35258 as test-client-2 (p2, c1, k60, u'admin').
+1745911536: New client connected from 172.24.0.1:35266 as test-client-5 (p2, c1, k60, u'admin').
+1745911537: Client test-client-2 disconnected.
+1745911537: Client test-client-3 disconnected.
+1745911537: Client test-client-1 disconnected.
+1745911537: Client test-client-5 disconnected.
+1745911537: Client test-client-4 disconnected.
+1745911542: New connection from 172.24.0.1:37256 on port 1883.
+1745911542: New client connected from 172.24.0.1:37256 as test-client-4 (p2, c1, k60, u'admin').
+1745911542: New connection from 172.24.0.1:37264 on port 1883.
+1745911542: New connection from 172.24.0.1:37272 on port 1883.
+1745911542: New connection from 172.24.0.1:37282 on port 1883.
+1745911542: New connection from 172.24.0.1:37292 on port 1883.
+1745911542: New client connected from 172.24.0.1:37264 as test-client-1 (p2, c1, k60, u'admin').
+1745911542: New client connected from 172.24.0.1:37272 as test-client-3 (p2, c1, k60, u'admin').
+1745911542: New client connected from 172.24.0.1:37282 as test-client-5 (p2, c1, k60, u'admin').
+1745911542: New client connected from 172.24.0.1:37292 as test-client-2 (p2, c1, k60, u'admin').
+1745911543: Client test-client-5 disconnected.
+1745911543: Client test-client-3 disconnected.
+1745911543: Client test-client-2 disconnected.
+1745911543: Client test-client-1 disconnected.
+1745911543: Client test-client-4 disconnected.
+1745911710: Client rust-mqtt-server-76b52090-c99b-4569-af8e-1be0d41d8f68 closed its connection.
