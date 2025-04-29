@@ -1,5 +1,8 @@
 version: '3'
 
+networks:
+  cluster2:
+    driver: bridge
 services:
   # second shard - runs on cluster2 network
   db-shard-2-core-1:
@@ -23,7 +26,6 @@ services:
     volumes:
       - "./cypher:/cypher"
     networks:
-      # This network is defined in docker-compose-main.yaml
       - cluster2
 
   db-shard-2-core-2:
@@ -73,8 +75,3 @@ services:
     networks:
       # This network is defined in docker-compose-main.yaml
       - cluster2
-
-# Define the network as external, as it's created in docker-compose-main.yaml
-networks:
-  cluster2:
-    external: true
